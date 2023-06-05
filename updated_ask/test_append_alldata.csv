@@ -1,0 +1,741 @@
+,ID,Date,Region,City,Category,Product,Qty,UnitPrice,TotalPrice
+0,ID07351,1-Jan,East,Boston,Bars,Carrot,33.0,1.77,58.41
+1,ID07352,4-Jan,East,Boston,Crackers,Whole Wheat,87.0,3.49,303.63
+2,ID07353,7-Jan,West,Los Angeles,Cookies,Chocolate Chip,58.0,1.87,108.46
+3,ID07354,10-Jan,East,New York,Cookies,Chocolate Chip,82.0,1.87,153.34
+4,ID07355,13-Jan,East,Boston,Cookies,Arrowroot,38.0,2.18,82.84
+5,ID07356,16-Jan,East,Boston,Bars,Carrot,54.0,1.77,95.58
+6,ID07357,19-Jan,East,Boston,Crackers,Whole Wheat,149.0,3.49,520.01
+7,ID07358,22-Jan,West,Los Angeles,Bars,Carrot,51.0,1.77,90.27
+8,ID07359,25-Jan,East,New York,Bars,Carrot,100.0,1.77,177.0
+9,ID07360,28-Jan,East,New York,Snacks,Potato Chips,28.0,1.35,37.8
+10,ID07361,31-Jan,East,Boston,Cookies,Arrowroot,36.0,2.18,78.48
+11,ID07362,3-Feb,East,Boston,Cookies,Chocolate Chip,31.0,1.87,57.97
+12,ID07363,6-Feb,East,Boston,Crackers,Whole Wheat,28.0,3.49,97.72
+13,ID07364,9-Feb,West,Los Angeles,Bars,Carrot,44.0,1.77,77.88
+14,ID07365,12-Feb,East,New York,Bars,Carrot,23.0,1.77,40.71
+15,ID07366,15-Feb,East,New York,Snacks,Potato Chips,27.0,1.35,36.45
+16,ID07367,18-Feb,East,Boston,Cookies,Arrowroot,43.0,2.18,93.74
+17,ID07368,21-Feb,East,Boston,Cookies,Oatmeal Raisin,123.0,2.84,349.32
+18,ID07369,24-Feb,West,Los Angeles,Bars,Bran,42.0,1.87,78.54
+19,ID07370,27-Feb,West,Los Angeles,Cookies,Oatmeal Raisin,33.0,2.84,93.72
+20,ID07371,2-Mar,East,New York,Cookies,Chocolate Chip,85.0,1.87,158.95
+21,ID07372,5-Mar,West,San Diego,Cookies,Oatmeal Raisin,30.0,2.84,85.2
+22,ID07373,8-Mar,East,Boston,Bars,Carrot,61.0,1.77,107.97
+23,ID07374,11-Mar,East,Boston,Crackers,Whole Wheat,40.0,3.49,139.6
+24,ID07375,14-Mar,West,Los Angeles,Cookies,Chocolate Chip,86.0,1.87,160.82
+25,ID07376,17-Mar,East,New York,Bars,Carrot,38.0,1.77,67.26
+26,ID07377,20-Mar,East,New York,Snacks,Potato Chips,68.0,1.68,114.24
+27,ID07378,23-Mar,West,San Diego,Cookies,Chocolate Chip,39.0,1.87,72.93
+28,ID07379,26-Mar,East,Boston,Bars,Bran,103.0,1.87,192.61
+29,ID07380,29-Mar,East,Boston,Cookies,Oatmeal Raisin,193.0,2.84,548.12
+30,ID07381,1-Apr,West,Los Angeles,Bars,Carrot,58.0,1.77,102.66
+31,ID07382,4-Apr,West,Los Angeles,Snacks,Potato Chips,68.0,1.68,114.24
+32,ID07383,7-Apr,East,New York,Bars,Carrot,91.0,1.77,161.07
+33,ID07384,10-Apr,East,New York,Crackers,Whole Wheat,23.0,3.49,80.27
+34,ID07385,13-Apr,West,San Diego,Snacks,Potato Chips,28.0,1.68,47.04
+35,ID07386,16-Apr,East,Boston,Bars,Carrot,48.0,1.77,84.96
+36,ID07387,19-Apr,East,Boston,Snacks,Potato Chips,134.0,1.68,225.12
+37,ID07388,22-Apr,West,Los Angeles,Bars,Carrot,20.0,1.77,35.4
+38,ID07389,25-Apr,East,New York,Bars,Carrot,53.0,1.77,93.81
+39,ID07390,28-Apr,East,New York,Snacks,Potato Chips,64.0,1.68,107.52
+40,ID07391,1-May,West,San Diego,Cookies,Chocolate Chip,63.0,1.87,117.81
+41,ID07392,4-May,East,Boston,Bars,Bran,105.0,1.87,196.35
+42,ID07393,7-May,East,Boston,Cookies,Oatmeal Raisin,138.0,2.84,391.92
+43,ID07394,10-May,West,Los Angeles,Bars,Carrot,25.0,1.77,44.25
+44,ID07395,13-May,West,Los Angeles,Crackers,Whole Wheat,21.0,3.49,73.29
+45,ID07396,16-May,East,New York,Bars,Carrot,61.0,1.77,107.97
+46,ID07397,19-May,East,New York,Snacks,Potato Chips,49.0,1.68,82.32
+47,ID07398,22-May,West,San Diego,Cookies,Chocolate Chip,55.0,1.87,102.85
+48,ID07399,25-May,East,Boston,Cookies,Arrowroot,27.0,2.18,58.86
+49,ID07400,28-May,East,Boston,Bars,Carrot,58.0,1.77,102.66
+50,ID07401,31-May,East,Boston,Crackers,Whole Wheat,33.0,3.49,115.17
+51,ID07402,3-Jun,West,Los Angeles,Cookies,Oatmeal Raisin,288.0,2.84,817.92
+52,ID07403,6-Jun,East,New York,Cookies,Chocolate Chip,76.0,1.87,142.12
+53,ID07404,9-Jun,West,San Diego,Bars,Carrot,42.0,1.77,74.34
+54,ID07405,12-Jun,West,San Diego,Crackers,Whole Wheat,20.0,3.49,69.8
+55,ID07406,15-Jun,East,Boston,Bars,Carrot,75.0,1.77,132.75
+56,ID07407,18-Jun,East,Boston,Crackers,Whole Wheat,38.0,3.49,132.62
+57,ID07408,21-Jun,West,Los Angeles,Bars,Carrot,306.0,1.77,541.62
+58,ID07409,24-Jun,West,Los Angeles,Snacks,Potato Chips,28.0,1.68,47.04
+59,ID07410,27-Jun,East,New York,Bars,Bran,110.0,1.87,205.7
+60,ID07411,30-Jun,East,New York,Cookies,Oatmeal Raisin,51.0,2.84,144.84
+61,ID07412,3-Jul,West,San Diego,Bars,Carrot,52.0,1.77,92.04
+62,ID07413,6-Jul,West,San Diego,Crackers,Whole Wheat,28.0,3.49,97.72
+63,ID07414,9-Jul,East,Boston,Bars,Carrot,136.0,1.77,240.72
+64,ID07415,12-Jul,East,Boston,Crackers,Whole Wheat,42.0,3.49,146.58
+65,ID07416,15-Jul,West,Los Angeles,Cookies,Chocolate Chip,75.0,1.87,140.25
+66,ID07417,18-Jul,East,New York,Bars,Bran,72.0,1.87,134.64
+67,ID07418,21-Jul,East,New York,Cookies,Oatmeal Raisin,56.0,2.84,159.04
+68,ID07419,24-Jul,West,San Diego,Bars,Bran,51.0,1.87,95.37
+69,ID07420,27-Jul,West,San Diego,Snacks,Potato Chips,31.0,1.68,52.08
+70,ID07421,30-Jul,East,Boston,Bars,Bran,56.0,1.87,104.72
+71,ID07422,2-Aug,East,Boston,Cookies,Oatmeal Raisin,137.0,2.84,389.08
+72,ID07423,5-Aug,West,Los Angeles,Cookies,Chocolate Chip,107.0,1.87,200.09
+73,ID07424,8-Aug,East,New York,Bars,Carrot,24.0,1.77,42.48
+74,ID07425,11-Aug,East,New York,Crackers,Whole Wheat,30.0,3.49,104.7
+75,ID07426,14-Aug,West,San Diego,Cookies,Chocolate Chip,70.0,1.87,130.9
+76,ID07427,17-Aug,East,Boston,Cookies,Arrowroot,31.0,2.18,67.58
+77,ID07428,20-Aug,East,Boston,Bars,Carrot,109.0,1.77,192.93
+78,ID07429,23-Aug,East,Boston,Crackers,Whole Wheat,21.0,3.49,73.29
+79,ID07430,26-Aug,West,Los Angeles,Cookies,Chocolate Chip,80.0,1.87,149.6
+80,ID07431,29-Aug,East,New York,Bars,Bran,75.0,1.87,140.25
+81,ID07432,1-Sep,East,New York,Cookies,Oatmeal Raisin,74.0,2.84,210.16
+82,ID07433,4-Sep,West,San Diego,Bars,Carrot,45.0,1.77,79.65
+83,ID07434,7-Sep,East,Boston,Cookies,Arrowroot,28.0,2.18,61.04
+84,ID07435,10-Sep,East,Boston,Bars,Carrot,143.0,1.77,253.11
+85,ID07436,13-Sep,East,Boston,Snacks,Pretzels,27.0,3.15,85.05
+86,ID07437,16-Sep,West,Los Angeles,Bars,Carrot,133.0,1.77,235.41
+87,ID07438,19-Sep,East,New York,Cookies,Arrowroot,110.0,2.18,239.8
+88,ID07439,22-Sep,East,New York,Cookies,Chocolate Chip,65.0,1.87,121.55
+89,ID07440,25-Sep,West,San Diego,Bars,Bran,33.0,1.87,61.71
+90,ID07441,28-Sep,East,Boston,Cookies,Arrowroot,81.0,2.18,176.58
+91,ID07442,1-Oct,East,Boston,Bars,Carrot,77.0,1.77,136.29
+92,ID07443,4-Oct,East,Boston,Crackers,Whole Wheat,38.0,3.49,132.62
+93,ID07444,7-Oct,West,Los Angeles,Bars,Carrot,40.0,1.77,70.8
+94,ID07445,10-Oct,West,Los Angeles,Snacks,Potato Chips,114.0,1.68,191.52
+95,ID07446,13-Oct,East,New York,Cookies,Arrowroot,224.0,2.18,488.32
+96,ID07447,16-Oct,East,New York,Bars,Carrot,141.0,1.77,249.57
+97,ID07448,19-Oct,East,New York,Crackers,Whole Wheat,32.0,3.49,111.68
+98,ID07449,22-Oct,West,San Diego,Bars,Carrot,20.0,1.77,35.4
+99,ID07450,25-Oct,East,Boston,Cookies,Arrowroot,40.0,2.18,87.2
+100,ID07451,28-Oct,East,Boston,Cookies,Chocolate Chip,49.0,1.87,91.63
+101,ID07452,31-Oct,East,Boston,Crackers,Whole Wheat,46.0,3.49,160.54
+102,ID07453,3-Nov,West,Los Angeles,Bars,Carrot,39.0,1.77,69.03
+103,ID07454,6-Nov,West,Los Angeles,Snacks,Potato Chips,62.0,1.68,104.16
+104,ID07455,9-Nov,East,New York,Bars,Carrot,90.0,1.77,159.3
+105,ID07456,12-Nov,West,San Diego,Cookies,Arrowroot,103.0,2.18,224.54
+106,ID07457,15-Nov,West,San Diego,Cookies,Oatmeal Raisin,32.0,2.84,90.88
+107,ID07458,18-Nov,East,Boston,Bars,Bran,66.0,1.87,123.42
+108,ID07459,21-Nov,East,Boston,Cookies,Oatmeal Raisin,97.0,2.84,275.48
+109,ID07460,24-Nov,West,Los Angeles,Bars,Carrot,30.0,1.77,53.1
+110,ID07461,27-Nov,West,Los Angeles,Snacks,Potato Chips,29.0,1.68,48.72
+111,ID07462,30-Nov,East,New York,Bars,Carrot,92.0,1.77,162.84
+112,ID07463,3-Dec,West,San Diego,Cookies,Arrowroot,139.0,2.18,303.02
+113,ID07464,6-Dec,West,San Diego,Cookies,Oatmeal Raisin,29.0,2.84,82.36
+114,ID07465,9-Dec,East,Boston,Bars,Banana,30.0,2.27,68.1
+115,ID07466,12-Dec,East,Boston,Cookies,Chocolate Chip,36.0,1.87,67.32
+116,ID07467,15-Dec,East,Boston,Crackers,Whole Wheat,41.0,3.49,143.09
+117,ID07468,18-Dec,West,Los Angeles,Bars,Carrot,44.0,1.77,77.88
+118,ID07469,21-Dec,West,Los Angeles,Snacks,Potato Chips,29.0,1.68,48.72
+119,ID07470,24-Dec,East,New York,Cookies,Arrowroot,237.0,2.18,516.66
+120,ID07471,27-Dec,East,New York,Cookies,Chocolate Chip,65.0,1.87,121.55
+121,ID07472,30-Dec,West,San Diego,Cookies,Arrowroot,83.0,2.18,180.94
+122,ID07473,2-Jan,East,Boston,Cookies,Arrowroot,32.0,2.18,69.76
+123,ID07474,5-Jan,East,Boston,Bars,Carrot,63.0,1.77,111.51
+124,ID07475,8-Jan,East,Boston,Snacks,Pretzels,29.0,3.15,91.35
+125,ID07476,11-Jan,West,Los Angeles,Bars,Bran,77.0,1.87,143.99
+126,ID07477,14-Jan,West,Los Angeles,Cookies,Oatmeal Raisin,80.0,2.84,227.2
+127,ID07478,17-Jan,East,New York,Bars,Carrot,102.0,1.77,180.54
+128,ID07479,20-Jan,East,New York,Crackers,Whole Wheat,31.0,3.49,108.19
+129,ID07480,23-Jan,West,San Diego,Bars,Carrot,56.0,1.77,99.12
+130,ID07481,26-Jan,East,Boston,Cookies,Arrowroot,52.0,2.18,113.36
+131,ID07482,29-Jan,East,Boston,Bars,Carrot,51.0,1.77,90.27
+132,ID07483,1-Feb,East,Boston,Snacks,Potato Chips,24.0,1.68,40.32
+133,ID07484,4-Feb,West,Los Angeles,Cookies,Arrowroot,58.0,2.18,126.44
+134,ID07485,7-Feb,West,Los Angeles,Cookies,Chocolate Chip,34.0,1.87,63.58
+135,ID07486,10-Feb,East,New York,Bars,Carrot,34.0,1.77,60.18
+136,ID07487,13-Feb,East,New York,Snacks,Potato Chips,21.0,1.68,35.28
+137,ID07488,16-Feb,West,San Diego,Cookies,Oatmeal Raisin,29.0,2.84,82.36
+138,ID07489,19-Feb,East,Boston,Bars,Carrot,68.0,1.77,120.36
+139,ID07490,22-Feb,East,Boston,Snacks,Pretzels,31.0,3.15,97.65
+140,ID07491,25-Feb,West,Los Angeles,Cookies,Arrowroot,30.0,2.18,65.4
+141,ID07492,28-Feb,West,Los Angeles,Cookies,Chocolate Chip,232.0,1.87,433.84
+142,ID07493,2-Mar,East,New York,Bars,Bran,68.0,1.87,127.16
+143,ID07494,5-Mar,East,New York,Cookies,Oatmeal Raisin,97.0,2.84,275.48
+144,ID07495,8-Mar,West,San Diego,Bars,Bran,86.0,1.87,160.82
+145,ID07496,11-Mar,West,San Diego,Snacks,Potato Chips,41.0,1.68,68.88
+146,ID07497,14-Mar,East,Boston,Bars,Carrot,93.0,1.77,164.61
+147,ID07498,17-Mar,East,Boston,Snacks,Potato Chips,47.0,1.68,78.96
+148,ID07499,20-Mar,West,Los Angeles,Bars,Carrot,103.0,1.77,182.31
+149,ID07500,23-Mar,West,Los Angeles,Snacks,Potato Chips,33.0,1.68,55.44
+150,ID07501,26-Mar,East,New York,Bars,Bran,57.0,1.87,106.59
+151,ID07502,29-Mar,East,New York,Cookies,Oatmeal Raisin,65.0,2.84,184.6
+152,ID07503,1-Apr,West,San Diego,Bars,Carrot,118.0,1.77,208.86
+153,ID07504,4-Apr,East,Boston,Cookies,Arrowroot,36.0,2.18,78.48
+154,ID07505,7-Apr,East,Boston,Cookies,Oatmeal Raisin,123.0,2.84,349.32
+155,ID07506,10-Apr,West,Los Angeles,Bars,Carrot,90.0,1.77,159.3
+156,ID07507,13-Apr,West,Los Angeles,Crackers,Whole Wheat,21.0,3.49,73.29
+157,ID07508,16-Apr,East,New York,Bars,Carrot,48.0,1.77,84.96
+158,ID07509,19-Apr,East,New York,Snacks,Potato Chips,24.0,1.68,40.32
+159,ID07510,22-Apr,West,San Diego,Cookies,Chocolate Chip,67.0,1.87,125.29
+160,ID07511,25-Apr,East,Boston,Bars,Bran,27.0,1.87,50.49
+161,ID07512,28-Apr,East,Boston,Cookies,Oatmeal Raisin,129.0,2.84,366.36
+162,ID07513,1-May,West,Los Angeles,Cookies,Arrowroot,77.0,2.18,167.86
+163,ID07514,4-May,West,Los Angeles,Cookies,Chocolate Chip,58.0,1.87,108.46
+164,ID07515,7-May,East,New York,Bars,Bran,47.0,1.87,87.89
+165,ID07516,10-May,East,New York,Cookies,Oatmeal Raisin,33.0,2.84,93.72
+166,ID07517,13-May,West,San Diego,Cookies,Chocolate Chip,82.0,1.87,153.34
+167,ID07518,16-May,East,Boston,Bars,Carrot,58.0,1.77,102.66
+168,ID07519,19-May,East,Boston,Snacks,Pretzels,30.0,3.15,94.5
+169,ID07520,22-May,West,Los Angeles,Cookies,Chocolate Chip,43.0,1.87,80.41
+170,ID07521,25-May,East,New York,Bars,Carrot,84.0,1.77,148.68
+171,ID07522,28-May,West,San Diego,Cookies,Arrowroot,36.0,2.18,78.48
+172,ID07523,31-May,West,San Diego,Cookies,Oatmeal Raisin,44.0,2.84,124.96
+173,ID07524,3-Jun,East,Boston,Bars,Bran,27.0,1.87,50.49
+174,ID07525,6-Jun,East,Boston,Cookies,Oatmeal Raisin,120.0,2.84,340.8
+175,ID07526,9-Jun,East,Boston,Crackers,Whole Wheat,26.0,3.49,90.74
+176,ID07527,12-Jun,West,Los Angeles,Bars,Carrot,73.0,1.77,129.21
+177,ID07528,15-Jun,East,New York,Bars,Bran,38.0,1.87,71.06
+178,ID07529,18-Jun,East,New York,Cookies,Oatmeal Raisin,40.0,2.84,113.6
+179,ID07530,21-Jun,West,San Diego,Bars,Carrot,41.0,1.77,72.57
+180,ID07531,24-Jun,East,Boston,Bars,Banana,27.0,2.27,61.29
+181,ID07532,27-Jun,East,Boston,Cookies,Chocolate Chip,38.0,1.87,71.06
+182,ID07533,30-Jun,East,Boston,Crackers,Whole Wheat,34.0,3.49,118.66
+183,ID07534,3-Jul,West,Los Angeles,Bars,Bran,65.0,1.87,121.55
+184,ID07535,6-Jul,West,Los Angeles,Cookies,Oatmeal Raisin,60.0,2.84,170.4
+185,ID07536,9-Jul,East,New York,Cookies,Arrowroot,37.0,2.18,80.66
+186,ID07537,12-Jul,East,New York,Cookies,Chocolate Chip,40.0,1.87,74.8
+187,ID07538,15-Jul,West,San Diego,Bars,Bran,26.0,1.87,48.62
+188,ID07539,18-Jul,East,Boston,Bars,Banana,22.0,2.27,49.94
+189,ID07540,21-Jul,East,Boston,Cookies,Chocolate Chip,32.0,1.87,59.84
+190,ID07541,24-Jul,East,Boston,Crackers,Whole Wheat,23.0,3.49,80.27
+191,ID07542,27-Jul,West,Los Angeles,Cookies,Arrowroot,20.0,2.18,43.6
+192,ID07543,30-Jul,West,Los Angeles,Cookies,Chocolate Chip,64.0,1.87,119.68
+193,ID07544,2-Aug,East,New York,Bars,Carrot,71.0,1.77,125.67
+194,ID07545,5-Aug,West,San Diego,Cookies,Arrowroot,90.0,2.18,196.2
+195,ID07546,8-Aug,West,San Diego,Cookies,Oatmeal Raisin,38.0,2.84,107.92
+196,ID07547,11-Aug,East,Boston,Bars,Carrot,55.0,1.77,97.35
+197,ID07548,14-Aug,East,Boston,Snacks,Pretzels,22.0,3.15,69.3
+198,ID07549,17-Aug,West,Los Angeles,Bars,Carrot,34.0,1.77,60.18
+199,ID07550,20-Aug,East,New York,Bars,Bran,39.0,1.87,72.93
+200,ID07551,23-Aug,East,New York,Cookies,Oatmeal Raisin,41.0,2.84,116.44
+201,ID07552,26-Aug,West,San Diego,Bars,Carrot,41.0,1.77,72.57
+202,ID07553,29-Aug,East,Boston,Cookies,Arrowroot,136.0,2.18,296.48
+203,ID07554,1-Sep,East,Boston,Bars,Carrot,25.0,1.77,44.25
+204,ID07555,4-Sep,East,Boston,Snacks,Pretzels,26.0,3.15,81.9
+205,ID07556,7-Sep,West,Los Angeles,Bars,Bran,50.0,1.87,93.5
+206,ID07557,10-Sep,West,Los Angeles,Cookies,Oatmeal Raisin,79.0,2.84,224.36
+207,ID07558,13-Sep,East,New York,Bars,Carrot,30.0,1.77,53.1
+208,ID07559,16-Sep,East,New York,Snacks,Potato Chips,20.0,1.68,33.6
+209,ID07560,19-Sep,West,San Diego,Bars,Carrot,49.0,1.77,86.73
+210,ID07561,22-Sep,East,Boston,Cookies,Arrowroot,40.0,2.18,87.2
+211,ID07562,25-Sep,East,Boston,Bars,Carrot,31.0,1.77,54.87
+212,ID07563,28-Sep,East,Boston,Snacks,Pretzels,21.0,3.15,66.15
+213,ID07564,1-Oct,West,Los Angeles,Bars,Bran,43.0,1.87,80.41
+214,ID07565,4-Oct,West,Los Angeles,Cookies,Oatmeal Raisin,47.0,2.84,133.48
+215,ID07566,7-Oct,East,New York,Cookies,Arrowroot,175.0,2.18,381.5
+216,ID07567,10-Oct,East,New York,Cookies,Chocolate Chip,23.0,1.87,43.01
+217,ID07568,13-Oct,West,San Diego,Bars,Carrot,40.0,1.77,70.8
+218,ID07569,16-Oct,East,Boston,Cookies,Arrowroot,87.0,2.18,189.66
+219,ID07570,19-Oct,East,Boston,Bars,Carrot,43.0,1.77,76.11
+220,ID07571,22-Oct,East,Boston,Crackers,Whole Wheat,30.0,3.49,104.7
+221,ID07572,25-Oct,West,Los Angeles,Bars,Carrot,35.0,1.77,61.95
+222,ID07573,28-Oct,East,New York,Bars,Bran,57.0,1.87,106.59
+223,ID07574,31-Oct,East,New York,Snacks,Potato Chips,25.0,1.68,42.0
+224,ID07575,3-Nov,West,San Diego,Cookies,Chocolate Chip,24.0,1.87,44.88
+225,ID07576,6-Nov,East,Boston,Bars,Bran,83.0,1.87,155.21
+226,ID07577,9-Nov,East,Boston,Cookies,Oatmeal Raisin,124.0,2.84,352.16
+227,ID07578,12-Nov,West,Los Angeles,Bars,Carrot,137.0,1.77,242.49
+228,ID07579,15-Nov,East,New York,Cookies,Arrowroot,146.0,2.18,318.28
+229,ID07580,18-Nov,East,New York,Cookies,Chocolate Chip,34.0,1.87,63.58
+230,ID07581,21-Nov,West,San Diego,Bars,Carrot,20.0,1.77,35.4
+231,ID07582,24-Nov,East,Boston,Cookies,Arrowroot,139.0,2.18,303.02
+232,ID07583,27-Nov,East,Boston,Cookies,Chocolate Chip,211.0,1.87,394.57
+233,ID07584,30-Nov,East,Boston,Crackers,Whole Wheat,20.0,3.49,69.8
+234,ID07585,3-Dec,West,Los Angeles,Bars,Bran,42.0,1.87,78.54
+235,ID07586,6-Dec,West,Los Angeles,Cookies,Oatmeal Raisin,100.0,2.84,284.0
+236,ID07587,9-Dec,East,New York,Bars,Carrot,38.0,1.77,67.26
+237,ID07588,12-Dec,East,New York,Crackers,Whole Wheat,25.0,3.49,87.25
+238,ID07589,15-Dec,West,San Diego,Cookies,Chocolate Chip,96.0,1.87,179.52
+239,ID07590,18-Dec,East,Boston,Cookies,Arrowroot,34.0,2.18,74.12
+240,ID07591,21-Dec,East,Boston,Cookies,Chocolate Chip,245.0,1.87,458.15
+241,ID07592,24-Dec,East,Boston,Crackers,Whole Wheat,30.0,3.49,104.7
+242,ID07593,27-Dec,West,Los Angeles,Bars,Bran,30.0,1.87,56.1
+243,ID07594,30-Dec,West,Los Angeles,Cookies,Oatmeal Raisin,44.0,2.84,124.96
+244,ID00001,,,,Baking mixes,,,,
+245,ID00002,,,,Baking supplies,,,,
+246,ID00003,,,,Bakers yeast,,,,
+247,ID00004,,,,Baking powder,,,,
+248,ID00005,,,,Tapioca,,,,
+249,ID00006,,,,Fresh bread,,,,
+250,ID00007,,,,Frozen bread,,,,
+251,ID00008,,,,Plain savory biscuits,,,,
+252,ID00009,,,,Dried breads or bread shells or croutons,,,,
+253,ID00010,,,,Sweet biscuits or cookies,,,,
+254,ID00011,,,,Shelf stable bread,,,,
+255,ID00012,,,,Frozen cookie dough,,,,
+256,ID00013,,,,Frozen bread dough,,,,
+257,ID00014,,,,Crackers,,,,
+258,ID00015,,,,Fresh cakes or pies or pastries,,,,
+259,ID00016,,,,Frozen cakes or pies or pastries,,,,
+260,ID00017,,,,Frozen pastry dough,,,,
+261,ID00018,,,,Frozen savory biscuit dough,,,,
+262,ID00019,,,,Rice cake,,,,
+263,ID00020,,,,Fresh prepared soups or stews,,,,
+264,ID00021,,,,Frozen prepared soups or stews,,,,
+265,ID00022,,,,Shelf stable prepared soups or stews,,,,
+266,ID00023,,,,Crisps or chips or pretzels or mixes,,,,
+267,ID00024,,,,Nuts or dried fruits,,,,
+268,ID00025,,,,Dried or processed meats,,,,
+269,ID00026,,,,Popped corn,,,,
+270,ID00027,,,,Dried shellfish and fish fillet,,,,
+271,ID00028,,,,Prepared desserts,,,,
+272,ID00029,,,,Dessert toppings,,,,
+273,ID00030,,,,Flavored ices or ice cream or ice cream desserts or frozen yogurts,,,,
+274,ID00031,,,,Edible ice cream cups or cones,,,,
+275,ID00032,,,,Jams or jellies or fruit preserves,,,,
+276,ID00033,,,,Nut or mixed spreads,,,,
+277,ID00034,,,,Honey,,,,
+278,ID00035,,,,Gelatin or jelly crystals,,,,
+279,ID00036,,,,Processed royal jelly food,,,,
+280,ID00037,,,,Mooks or acorn starch jelly,,,,
+281,ID00038,,,,Fresh sandwiches or filled rolls,,,,
+282,ID00039,,,,Frozen sandwiches or filled rolls,,,,
+283,ID00040,,,,Fresh sandwich fillers,,,,
+284,ID00041,,,,Frozen sandwich fillers,,,,
+285,ID00042,,,,Fresh prepared potatoes or rice or pasta or stuffing,,,,
+286,ID00043,,,,Frozen prepared potatoes or rice or pasta or stuffing,,,,
+287,ID00044,,,,Shelf stable prepared potatoes or rice or pasta or stuffing,,,,
+288,ID00045,,,,Fresh combination meals,,,,
+289,ID00046,,,,Frozen combination meals,,,,
+290,ID00047,,,,Shelf stable combination meals,,,,
+291,ID00048,,,,Fresh savory pies or quiches or pasties,,,,
+292,ID00049,,,,Frozen savory pies or quiches or pasties,,,,
+293,ID00050,,,,Shelf stable savory pies or quiches or pasties,,,,
+294,ID00051,,,,Fresh plain pasta or noodles,,,,
+295,ID00052,,,,Shelf stable plain pasta or noodles,,,,
+296,ID00053,,,,Infant foods,,,,
+297,ID00054,,,,Infant beverages,,,,
+298,ID00055,,,,Instant snack mixes,,,,
+299,ID00056,,,,Dessert mix,,,,
+300,ID00057,,,,Gravy mix,,,,
+301,ID00058,,,,Soup bases,,,,
+302,ID00059,,,,Batter or breading mixes,,,,
+303,ID00060,,,,Instant purees,,,,
+304,ID00061,,,,Instant mashed potatoes,,,,
+305,ID00062,,,,Instant paps,,,,
+306,ID00063,,,,Fresh prepared salads,,,,
+307,ID00064,,,,Frozen prepared salads,,,,
+308,ID00065,,,,Shelf stable prepared salads,,,,
+309,ID00066,,,,Corn or maize tortilla,,,,
+310,ID00067,,,,Wheat tortilla,,,,
+311,ID00068,,,,Coffee,,,,
+312,ID00069,,,,Coffee substitutes,,,,
+313,ID00070,,,,Coffee drinks,,,,
+314,ID00071,,,,Instant coffee,,,,
+315,ID00072,,,,Leaf tea,,,,
+316,ID00073,,,,Instant tea,,,,
+317,ID00074,,,,Tea drinks,,,,
+318,ID00075,,,,Tea bags,,,,
+319,ID00076,,,,Non dairy creamers,,,,
+320,ID00077,,,,Fruit tea,,,,
+321,ID00078,,,,Mate leaf,,,,
+322,ID00079,,,,"Coffee, green",,,,
+323,ID00080,,,,Beer,,,,
+324,ID00081,,,,Cider or perry,,,,
+325,ID00082,,,,Wine,,,,
+326,ID00083,,,,Fortified wine,,,,
+327,ID00084,,,,Sparkling wine,,,,
+328,ID00085,,,,Spirits or liquors,,,,
+329,ID00086,,,,Alcohol cocktails or drink mixes,,,,
+330,ID00087,,,,Takju,,,,
+331,ID00088,,,,Soju,,,,
+332,ID00089,,,,Clear strained rice wine,,,,
+333,ID00090,,,,Water,,,,
+334,ID00091,,,,Ice,,,,
+335,ID00092,,,,Frozen juices,,,,
+336,ID00093,,,,Shelf stable juice,,,,
+337,ID00094,,,,Fresh juice,,,,
+338,ID00095,,,,Soft drinks,,,,
+339,ID00096,,,,Chocolate or malt or other hot beverages,,,,
+340,ID00097,,,,Alcohol free cocktails or drink mixes,,,,
+341,ID00098,,,,Sport or energy drink,,,,
+342,ID00099,,,,Spring or mineral water,,,,
+343,ID00100,,,,Powdered drink mix,,,,
+344,ID00101,,,,Clementine juice,,,,
+345,ID00102,,,,Kumquat juice,,,,
+346,ID00103,,,,Lemon juice,,,,
+347,ID00104,,,,Key lime juice,,,,
+348,ID00105,,,,Lime juice,,,,
+349,ID00106,,,,Mandarin juice,,,,
+350,ID00107,,,,Minneola tangelo juice,,,,
+351,ID00108,,,,Orange juice,,,,
+352,ID00109,,,,Pummelo juice,,,,
+353,ID00110,,,,Satsuma juice,,,,
+354,ID00111,,,,Tangelo juice,,,,
+355,ID00112,,,,Tangerine juice,,,,
+356,ID00113,,,,Temple juice,,,,
+357,ID00114,,,,Ugli juice,,,,
+358,ID00115,,,,Clementine concentrate,,,,
+359,ID00116,,,,Kumquat concentrate,,,,
+360,ID00117,,,,Lemon concentrate,,,,
+361,ID00118,,,,Lime concentrate,,,,
+362,ID00119,,,,Mandarin concentrate,,,,
+363,ID00120,,,,Minneola concentrate,,,,
+364,ID00121,,,,Orange concentrate,,,,
+365,ID00122,,,,Pummelo concentrate,,,,
+366,ID00123,,,,Satsuma concentrate,,,,
+367,ID00124,,,,Tangelo concentrate,,,,
+368,ID00125,,,,Tangerine concentrate,,,,
+369,ID00126,,,,Temple concentrate,,,,
+370,ID00127,,,,Ugli concentrate,,,,
+371,ID00128,,,,Grapefruit juice,,,,
+372,ID00129,,,,Blackberry concentrate,,,,
+373,ID00130,,,,Blueberry concentrate,,,,
+374,ID00131,,,,Cranberry concentrate,,,,
+375,ID00132,,,,Grape concentrate,,,,
+376,ID00133,,,,Raspberry concentrate,,,,
+377,ID00134,,,,Strawberry concentrate,,,,
+378,ID00135,,,,Boysenberry juice,,,,
+379,ID00136,,,,Blackcurrant juice,,,,
+380,ID00137,,,,Blackberry juice,,,,
+381,ID00138,,,,Blueberry juice,,,,
+382,ID00139,,,,Raspberry juice,,,,
+383,ID00140,,,,Strawberry juice,,,,
+384,ID00141,,,,Grape juice,,,,
+385,ID00142,,,,Apple juice,,,,
+386,ID00143,,,,Pear juice,,,,
+387,ID00144,,,,Apricot juice,,,,
+388,ID00145,,,,Cherry juice,,,,
+389,ID00146,,,,Nectarine juice,,,,
+390,ID00147,,,,Peach juice,,,,
+391,ID00148,,,,Plum juice,,,,
+392,ID00149,,,,Prune juice,,,,
+393,ID00150,,,,Cream of coconut concentrate,,,,
+394,ID00151,,,,Kiwi fruit concentrate,,,,
+395,ID00152,,,,Mango concentrate,,,,
+396,ID00153,,,,Passion fruit concentrate,,,,
+397,ID00154,,,,Pineapple concentrate,,,,
+398,ID00155,,,,Star fruit concentrate,,,,
+399,ID00156,,,,Pineapple Juice,,,,
+400,ID00157,,,,Cantaloupe concentrate,,,,
+401,ID00158,,,,Honeydew melon concentrate,,,,
+402,ID00159,,,,Watermelon concentrate,,,,
+403,ID00160,,,,Tomato juice,,,,
+404,ID00161,,,,Raw camel milk,,,,
+405,ID00162,,,,Raw goat milk,,,,
+406,ID00163,,,,Raw sheep milk,,,,
+407,ID00164,,,,Raw buffalo milk,,,,
+408,ID00165,,,,Raw cow milk,,,,
+409,ID00200,,Northeast,New York,,,,,
+410,ID00201,,West,Los Angeles,,,,,
+411,ID00202,,Midwest,Chicago,,,,,
+412,ID00203,,South,Houston,,,,,
+413,ID00204,,West,Phoenix,,,,,
+414,ID00205,,Northeast,Philadelphia,,,,,
+415,ID00206,,South,San Antonio,,,,,
+416,ID00207,,West,San Diego,,,,,
+417,ID00208,,South,Dallas,,,,,
+418,ID00209,,West,San Jose,,,,,
+419,ID00210,,South,Austin,,,,,
+420,ID00211,,South,Jacksonville,,,,,
+421,ID00212,,South,Fort Worth,,,,,
+422,ID00213,,Midwest,Columbus,,,,,
+423,ID00214,,Midwest,Indianapolis,,,,,
+424,ID00215,,South,Charlotte,,,,,
+425,ID00216,,West,San Francisco,,,,,
+426,ID00217,,West,Seattle,,,,,
+427,ID00218,,West,Denver,,,,,
+428,ID00219,,South,Oklahoma City,,,,,
+429,ID00220,,South,Nashville,,,,,
+430,ID00221,,South,El Paso,,,,,
+431,ID00222,,South,Washington,,,,,
+432,ID00223,,Northeast,Boston,,,,,
+433,ID00224,,West,Las Vegas,,,,,
+434,ID00225,,West,Portland,,,,,
+435,ID00226,,Midwest,Detroit,,,,,
+436,ID00227,,South,Louisville,,,,,
+437,ID00228,,South,Memphis,,,,,
+438,ID00229,,South,Baltimore,,,,,
+439,ID00230,,Midwest,Milwaukee,,,,,
+440,ID00231,,West,Albuquerque,,,,,
+441,ID00232,,West,Fresno,,,,,
+442,ID00233,,West,Tucson,,,,,
+443,ID00234,,West,Sacramento,,,,,
+444,ID00235,,West,Mesa,,,,,
+445,ID00236,,Midwest,Kansas City,,,,,
+446,ID00237,,South,Atlanta,,,,,
+447,ID00238,,Midwest,Omaha,,,,,
+448,ID00239,,West,Colorado Springs,,,,,
+449,ID00240,,South,Raleigh,,,,,
+450,ID00241,,South,Virginia Beach,,,,,
+451,ID00242,,West,Long Beach,,,,,
+452,ID00243,,South,Miami,,,,,
+453,ID00244,,West,Oakland,,,,,
+454,ID00245,,Midwest,Minneapolis,,,,,
+455,ID00246,,South,Tulsa,,,,,
+456,ID00247,,West,Bakersfield,,,,,
+457,ID00248,,Midwest,Wichita,,,,,
+458,ID00249,,South,Arlington,,,,,
+459,ID00250,,West,Aurora,,,,,
+460,ID00251,,South,Tampa,,,,,
+461,ID00252,,South,New Orleans,,,,,
+462,ID00253,,Midwest,Cleveland,,,,,
+463,ID00254,,West,Anaheim,,,,,
+464,ID00255,,West,Honolulu,,,,,
+465,ID00256,,West,Henderson,,,,,
+466,ID00257,,West,Stockton,,,,,
+467,ID00258,,South,Lexington,,,,,
+468,ID00259,,South,Corpus Christi,,,,,
+469,ID00260,,West,Riverside,,,,,
+470,ID00261,,West,Santa Ana,,,,,
+471,ID00262,,South,Orlando,,,,,
+472,ID00263,,West,Irvine,,,,,
+473,ID00264,,Midwest,Cincinnati,,,,,
+474,ID00265,,Northeast,Newark,,,,,
+475,ID00266,,Midwest,Saint Paul,,,,,
+476,ID00267,,Northeast,Pittsburgh,,,,,
+477,ID00268,,South,Greensboro,,,,,
+478,ID00269,,Midwest,St. Louis,,,,,
+479,ID00270,,Midwest,Lincoln,,,,,
+480,ID00271,,South,Plano,,,,,
+481,ID00272,,West,Anchorage,,,,,
+482,ID00273,,South,Durham,,,,,
+483,ID00274,,Northeast,Jersey City,,,,,
+484,ID00275,,West,Chandler,,,,,
+485,ID00276,,West,Chula Vista,,,,,
+486,ID00277,,Northeast,Buffalo,,,,,
+487,ID00278,,West,North Las Vegas,,,,,
+488,ID00279,,West,Gilbert,,,,,
+489,ID00280,,Midwest,Madison,,,,,
+490,ID00281,,West,Reno,,,,,
+491,ID00282,,Midwest,Toledo,,,,,
+492,ID00283,,Midwest,Fort Wayne,,,,,
+493,ID00284,,South,Lubbock,,,,,
+494,ID00285,,South,St. Petersburg,,,,,
+495,ID00286,,South,Laredo,,,,,
+496,ID00287,,South,Irving,,,,,
+497,ID00288,,South,Chesapeake,,,,,
+498,ID00289,,South,Winston–Salem,,,,,
+499,ID00290,,West,Glendale,,,,,
+500,ID00291,,West,Scottsdale,,,,,
+501,ID00292,,South,Garland,,,,,
+502,ID00293,,West,Boise,,,,,
+503,ID00294,,South,Norfolk,,,,,
+504,ID00295,,West,Spokane,,,,,
+505,ID00296,,West,Fremont,,,,,
+506,ID00297,,South,Richmond,,,,,
+507,ID00298,,West,Santa Clarita,,,,,
+508,ID00299,,West,San Bernardino,,,,,
+509,ID00300,,South,Baton Rouge,,,,,
+510,ID00301,,South,Hialeah,,,,,
+511,ID00302,,West,Tacoma,,,,,
+512,ID00303,,West,Modesto,,,,,
+513,ID00304,,South,Port St. Lucie,,,,,
+514,ID00305,,South,Huntsville,,,,,
+515,ID00306,,Midwest,Des Moines,,,,,
+516,ID00307,,West,Moreno Valley,,,,,
+517,ID00308,,West,Fontana,,,,,
+518,ID00309,,South,Frisco,,,,,
+519,ID00310,,Northeast,Rochester,,,,,
+520,ID00311,,Northeast,Yonkers,,,,,
+521,ID00312,,South,Fayetteville,,,,,
+522,ID00313,,Northeast,Worcester,,,,,
+523,ID00314,,South,Columbus,,,,,
+524,ID00315,,South,Cape Coral,,,,,
+525,ID00316,,South,McKinney,,,,,
+526,ID00317,,South,Little Rock,,,,,
+527,ID00318,,West,Oxnard,,,,,
+528,ID00319,,South,Amarillo,,,,,
+529,ID00320,,South,Augusta,,,,,
+530,ID00321,,West,Salt Lake City,,,,,
+531,ID00322,,South,Montgomery,,,,,
+532,ID00323,,South,Birmingham,,,,,
+533,ID00324,,Midwest,Grand Rapids,,,,,
+534,ID00325,,South,Grand Prairie,,,,,
+535,ID00326,,Midwest,Overland Park,,,,,
+536,ID00327,,South,Tallahassee,,,,,
+537,ID00328,,West,Huntington Beach,,,,,
+538,ID00329,,Midwest,Sioux Falls,,,,,
+539,ID00330,,West,Peoria,,,,,
+540,ID00331,,South,Knoxville,,,,,
+541,ID00332,,West,Glendale,,,,,
+542,ID00333,,West,Vancouver,,,,,
+543,ID00334,,Northeast,Providence,,,,,
+544,ID00335,,Midwest,Akron,,,,,
+545,ID00336,,South,Brownsville,,,,,
+546,ID00337,,South,Mobile,,,,,
+547,ID00338,,South,Newport News,,,,,
+548,ID00339,,West,Tempe,,,,,
+549,ID00340,,South,Shreveport,,,,,
+550,ID00341,,South,Chattanooga,,,,,
+551,ID00342,,South,Fort Lauderdale,,,,,
+552,ID00343,,Midwest,Aurora,,,,,
+553,ID00344,,West,Elk Grove,,,,,
+554,ID00345,,West,Ontario,,,,,
+555,ID00346,,West,Salem,,,,,
+556,ID00347,,South,Cary,,,,,
+557,ID00348,,West,Santa Rosa,,,,,
+558,ID00349,,West,Rancho Cucamonga,,,,,
+559,ID00350,,West,Eugene,,,,,
+560,ID00351,,West,Oceanside,,,,,
+561,ID00352,,South,Clarksville,,,,,
+562,ID00353,,West,Garden Grove,,,,,
+563,ID00354,,West,Lancaster,,,,,
+564,ID00355,,Midwest,Springfield,,,,,
+565,ID00356,,South,Pembroke Pines,,,,,
+566,ID00357,,West,Fort Collins,,,,,
+567,ID00358,,West,Palmdale,,,,,
+568,ID00359,,West,Salinas,,,,,
+569,ID00360,,West,Hayward,,,,,
+570,ID00361,,West,Corona,,,,,
+571,ID00362,,Northeast,Paterson,,,,,
+572,ID00363,,South,Murfreesboro,,,,,
+573,ID00364,,South,Macon,,,,,
+574,ID00365,,West,Lakewood,,,,,
+575,ID00366,,South,Killeen,,,,,
+576,ID00367,,Northeast,Springfield,,,,,
+577,ID00368,,South,Alexandria,,,,,
+578,ID00369,,Midwest,Kansas City,,,,,
+579,ID00370,,West,Sunnyvale,,,,,
+580,ID00371,,South,Hollywood,,,,,
+581,ID00372,,West,Roseville,,,,,
+582,ID00373,,South,Charleston,,,,,
+583,ID00374,,West,Escondido,,,,,
+584,ID00375,,Midwest,Joliet,,,,,
+585,ID00376,,South,Jackson,,,,,
+586,ID00377,,West,Bellevue,,,,,
+587,ID00378,,West,Surprise,,,,,
+588,ID00379,,Midwest,Naperville,,,,,
+589,ID00380,,South,Pasadena,,,,,
+590,ID00381,,West,Pomona,,,,,
+591,ID00382,,Northeast,Bridgeport,,,,,
+592,ID00383,,South,Denton,,,,,
+593,ID00384,,Midwest,Rockford,,,,,
+594,ID00385,,South,Mesquite,,,,,
+595,ID00386,,South,Savannah,,,,,
+596,ID00387,,Northeast,Syracuse,,,,,
+597,ID00388,,South,McAllen,,,,,
+598,ID00389,,West,Torrance,,,,,
+599,ID00390,,Midwest,Olathe,,,,,
+600,ID00391,,West,Visalia,,,,,
+601,ID00392,,West,Thornton,,,,,
+602,ID00393,,West,Fullerton,,,,,
+603,ID00394,,South,Gainesville,,,,,
+604,ID00395,,South,Waco,,,,,
+605,ID00396,,West,West Valley City,,,,,
+606,ID00397,,Midwest,Warren,,,,,
+607,ID00398,,Northeast,Lakewood,,,,,
+608,ID00399,,South,Hampton,,,,,
+609,ID00400,,Midwest,Dayton,,,,,
+610,ID00401,,South,Columbia,,,,,
+611,ID00402,,West,Orange,,,,,
+612,ID00403,,Midwest,Cedar Rapids,,,,,
+613,ID00404,,Northeast,Stamford,,,,,
+614,ID00405,,West,Victorville,,,,,
+615,ID00406,,West,Pasadena,,,,,
+616,ID00407,,Northeast,Elizabeth,,,,,
+617,ID00408,,Northeast,New Haven,,,,,
+618,ID00409,,South,Miramar,,,,,
+619,ID00410,,West,Kent,,,,,
+620,ID00411,,Midwest,Sterling Heights,,,,,
+621,ID00412,,South,Carrollton,,,,,
+622,ID00413,,South,Coral Springs,,,,,
+623,ID00414,,South,Midland,,,,,
+624,ID00415,,South,Norman,,,,,
+625,ID00416,,South,Athens,,,,,
+626,ID00417,,West,Santa Clara,,,,,
+627,ID00418,,Midwest,Columbia,,,,,
+628,ID00419,,Midwest,Fargo,,,,,
+629,ID00420,,South,Pearland,,,,,
+630,ID00421,,West,Simi Valley,,,,,
+631,ID00422,,West,Meridian,,,,,
+632,ID00423,,Midwest,Topeka,,,,,
+633,ID00424,,Northeast,Allentown,,,,,
+634,ID00425,,West,Thousand Oaks,,,,,
+635,ID00426,,South,Abilene,,,,,
+636,ID00427,,West,Vallejo,,,,,
+637,ID00428,,West,Concord,,,,,
+638,ID00429,,South,Round Rock,,,,,
+639,ID00430,,West,Arvada,,,,,
+640,ID00431,,West,Clovis,,,,,
+641,ID00432,,South,Palm Bay,,,,,
+642,ID00433,,Midwest,Independence,,,,,
+643,ID00434,,South,Lafayette,,,,,
+644,ID00435,,Midwest,Ann Arbor,,,,,
+645,ID00436,,Midwest,Rochester,,,,,
+646,ID00437,,Northeast,Hartford,,,,,
+647,ID00438,,South,College Station,,,,,
+648,ID00439,,West,Fairfield,,,,,
+649,ID00440,,South,Wilmington,,,,,
+650,ID00441,,South,North Charleston,,,,,
+651,ID00442,,West,Billings,,,,,
+652,ID00443,,South,West Palm Beach,,,,,
+653,ID00444,,West,Berkeley,,,,,
+654,ID00445,,Northeast,Cambridge,,,,,
+655,ID00446,,South,Clearwater,,,,,
+656,ID00447,,West,West Jordan,,,,,
+657,ID00448,,Midwest,Evansville,,,,,
+658,ID00449,,South,Richardson,,,,,
+659,ID00450,,South,Broken Arrow,,,,,
+660,ID00451,,West,Richmond,,,,,
+661,ID00452,,South,League City,,,,,
+662,ID00453,,Northeast,Manchester,,,,,
+663,ID00454,,South,Lakeland,,,,,
+664,ID00455,,West,Carlsbad,,,,,
+665,ID00456,,West,Antioch,,,,,
+666,ID00457,,West,Westminster,,,,,
+667,ID00458,,South,High Point,,,,,
+668,ID00459,,West,Provo,,,,,
+669,ID00460,,Northeast,Lowell,,,,,
+670,ID00461,,Midwest,Elgin,,,,,
+671,ID00462,,Northeast,Waterbury,,,,,
+672,ID00463,,Midwest,Springfield,,,,,
+673,ID00464,,West,Gresham,,,,,
+674,ID00465,,West,Murrieta,,,,,
+675,ID00466,,South,Lewisville,,,,,
+676,ID00467,,West,Las Cruces,,,,,
+677,ID00468,,Midwest,Lansing,,,,,
+678,ID00469,,South,Beaumont,,,,,
+679,ID00470,,South,Odessa,,,,,
+680,ID00471,,West,Pueblo,,,,,
+681,ID00472,,Midwest,Peoria,,,,,
+682,ID00473,,West,Downey,,,,,
+683,ID00474,,South,Pompano Beach,,,,,
+684,ID00475,,South,Miami Gardens,,,,,
+685,ID00476,,West,Temecula,,,,,
+686,ID00477,,West,Everett,,,,,
+687,ID00478,,West,Costa Mesa,,,,,
+688,ID00479,,West,Ventura,,,,,
+689,ID00480,,West,Sparks,,,,,
+690,ID00481,,West,Santa Maria,,,,,
+691,ID00482,,South,Sugar Land,,,,,
+692,ID00483,,West,Greeley,,,,,
+693,ID00484,,South,South Fulton,,,,,
+694,ID00485,,Midwest,Dearborn,,,,,
+695,ID00486,,South,Concord,,,,,
+696,ID00487,,Northeast,Edison,,,,,
+697,ID00488,,South,Tyler,,,,,
+698,ID00489,,South,Sandy Springs,,,,,
+699,ID00490,,West,West Covina,,,,,
+700,ID00491,,Midwest,Green Bay,,,,,
+701,ID00492,,West,Centennial,,,,,
+702,ID00493,,West,Jurupa Valley,,,,,
+703,ID00494,,West,El Monte,,,,,
+704,ID00495,,South,Allen,,,,,
+705,ID00496,,West,Hillsboro,,,,,
+706,ID00497,,West,Menifee,,,,,
+707,ID00498,,West,Nampa,,,,,
+708,ID00499,,West,Spokane Valley,,,,,
+709,ID00500,,West,Rio Rancho,,,,,
+710,ID00501,,Northeast,Brockton,,,,,
+711,ID00502,,West,El Cajon,,,,,
+712,ID00503,,West,Burbank,,,,,
+713,ID00504,,West,Inglewood,,,,,
+714,ID00505,,West,Renton,,,,,
+715,ID00506,,South,Davie,,,,,
+716,ID00507,,West,Rialto,,,,,
+717,ID00508,,West,Boulder,,,,,
+718,ID00509,,Midwest,South Bend,,,,,
+719,ID00510,,Northeast,Woodbridge,,,,,
+720,ID00511,,West,Vacaville,,,,,
+721,ID00512,,South,Wichita Falls,,,,,
+722,ID00513,,Midwest,Lee's Summit,,,,,
+723,ID00514,,South,Edinburg,,,,,
+724,ID00515,,West,Chico,,,,,
+725,ID00516,,West,San Mateo,,,,,
+726,ID00517,,West,Bend,,,,,
+727,ID00518,,West,Goodyear,,,,,
+728,ID00519,,West,Buckeye,,,,,
+729,ID00520,,West,Daly City,,,,,
+730,ID00521,,Midwest,Fishers,,,,,
+731,ID00522,,Northeast,Quincy,,,,,
+732,ID00523,,Midwest,Davenport,,,,,
+733,ID00524,,West,Hesperia,,,,,
+734,ID00525,,Northeast,New Bedford,,,,,
+735,ID00526,,Northeast,Lynn,,,,,
+736,ID00527,,Midwest,Carmel,,,,,
+737,ID00528,,West,Longmont,,,,,
+738,ID00529,,South,Tuscaloosa,,,,,
+739,ID00530,,West,Norwalk,,,,,

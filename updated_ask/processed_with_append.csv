@@ -1,0 +1,1001 @@
+,ID,Date,Region,City,Category,Product,Qty,UnitPrice,TotalPrice
+0,ID00393,15-Jul,West,Fairfield,Prepared and preserved foods,Carrot,263.0,2.0,679.0
+1,ID07570,22-May,South,Alexandria,Bars,Carrot,204.0,2.0,624.0
+2,ID07553,7-Oct,South,Richmond,Snacks,Potato Chips,110.0,3.0,500.0
+3,ID07475,13-Jan,South,Richmond,Snacks,Pretzels,285.0,3.0,753.0
+4,ID00233,19-May,South,Fayetteville,Bars,Banana,72.0,1.0,194.0
+5,ID07583,17-Aug,South,Atlanta,Cookies,Arrowroot,138.0,3.0,573.0
+6,ID07502,7-Sep,West,Stockton,Bars,Bran,271.0,2.0,751.0
+7,ID00131,24-Jun,South,Jackson,Snacks,Pretzels,150.0,2.0,288.0
+8,ID07487,21-Dec,Midwest,Toledo,Crackers,Whole Wheat,190.0,1.0,84.0
+9,ID00480,15-Jun,West,Nampa,Beverages,Carrot,297.0,2.0,789.0
+10,ID07479,1-Sep,West,Oakland,Bars,Carrot,85.0,2.0,246.0
+11,ID00235,13-Jan,West,Torrance,Snacks,Pretzels,97.0,2.0,440.0
+12,ID07390,4-Sep,South,Charlotte,Cookies,Chocolate Chip,82.0,3.0,402.0
+13,ID07555,22-May,South,Pembroke Pines,Bars,Carrot,122.0,3.0,396.0
+14,ID07434,19-Sep,West,Scottsdale,Bars,Carrot,188.0,1.0,312.0
+15,ID07443,10-Sep,South,Montgomery,Bars,Carrot,143.0,3.0,89.0
+16,ID00428,21-Jun,West,Goodyear,Bread and bakery products,Carrot,282.0,2.0,530.0
+17,ID00438,18-Jun,West,Longmont,Prepared and preserved foods,Carrot,193.0,2.0,332.0
+18,ID00400,22-Feb,South,High Point,Bread and bakery products,Carrot,125.0,1.0,220.0
+19,ID07461,13-Sep,Midwest,Madison,Crackers,Whole Wheat,221.0,1.0,563.0
+20,ID00498,31-Jan,West,Santa Maria,Prepared and preserved foods,Carrot,57.0,2.0,123.0
+21,ID07449,7-Sep,Midwest,Toledo,Snacks,Potato Chips,54.0,3.0,434.0
+22,ID07421,22-May,West,Oakland,Bars,Carrot,243.0,3.0,550.0
+23,ID00280,6-Feb,South,Allen,Snacks,Pretzels,245.0,2.0,759.0
+24,ID07514,6-Feb,West,Sunnyvale,Bars,Banana,188.0,3.0,652.0
+25,ID00430,15-Jul,West,Hillsboro,Bars,Banana,195.0,1.0,758.0
+26,ID00380,21-Feb,South,Coral Springs,Prepared and preserved foods,Carrot,252.0,1.0,594.0
+27,ID00424,16-Feb,South,Pearland,Snacks,Pretzels,105.0,2.0,249.0
+28,ID07485,22-Apr,West,Denver,Prepared and preserved foods,Carrot,69.0,1.0,77.0
+29,ID00417,14-Mar,West,Arvada,Beverages,Carrot,112.0,1.0,127.0
+30,ID07361,14-Aug,Northeast,New York,Bars,Carrot,190.0,2.0,142.0
+31,ID00075,21-Dec,South,Huntsville,Bars,Bran,185.0,2.0,707.0
+32,ID00025,3-Feb,West,Tacoma,Cookies,Oatmeal Raisin,247.0,1.0,513.0
+33,ID00261,21-Nov,South,Fayetteville,Beverages,Carrot,148.0,1.0,270.0
+34,ID00038,16-Oct,West,Oxnard,Crackers,Whole Wheat,34.0,2.0,59.0
+35,ID00038,20-Jan,West,Torrance,Bars,Carrot,68.0,3.0,370.0
+36,ID00419,28-Sep,West,Las Cruces,Snacks,Pretzels,234.0,1.0,488.0
+37,ID07494,11-Jan,South,Laredo,Bars,Carrot,40.0,3.0,315.0
+38,ID00420,4-Apr,South,Tyler,Snacks,Pretzels,162.0,3.0,788.0
+39,ID00285,5-Mar,West,Richmond,Bars,Banana,72.0,1.0,116.0
+40,ID00028,11-Jan,Midwest,Grand Rapids,Snacks,Potato Chips,32.0,2.0,73.0
+41,ID00443,7-Jan,South,South Fulton,Prepared and preserved foods,Carrot,109.0,1.0,375.0
+42,ID00161,7-Apr,Northeast,Bridgeport,Snacks,Potato Chips,138.0,2.0,409.0
+43,ID00223,19-Apr,West,Billings,Cookies,Arrowroot,272.0,2.0,743.0
+44,ID00201,18-Jun,South,Jackson,Bars,Bran,147.0,2.0,533.0
+45,ID00482,12-Dec,Midwest,South Bend,Bars,Banana,250.0,2.0,594.0
+46,ID00007,25-Jan,South,Newport News,Beverages,Carrot,83.0,1.0,180.0
+47,ID00058,5-Aug,Midwest,Akron,Crackers,Whole Wheat,125.0,2.0,231.0
+48,ID07489,29-Jan,West,Colorado Springs,Cookies,Chocolate Chip,214.0,2.0,655.0
+49,ID07419,26-Aug,West,Tucson,Cookies,Oatmeal Raisin,192.0,2.0,398.0
+50,ID07529,24-Jun,South,Clarksville,Bars,Bran,38.0,1.0,46.0
+51,ID00223,13-Oct,South,Midland,Snacks,Potato Chips,285.0,2.0,797.0
+52,ID00414,10-May,West,Temecula,Snacks,Pretzels,108.0,2.0,227.0
+53,ID00243,30-Jun,West,Scottsdale,Bars,Bran,252.0,3.0,528.0
+54,ID00276,6-Feb,West,Fullerton,Bread and bakery products,Carrot,91.0,1.0,233.0
+55,ID00135,28-May,Midwest,Dayton,Bars,Bran,125.0,2.0,392.0
+56,ID00235,1-May,South,Chattanooga,Prepared and preserved foods,Carrot,44.0,2.0,110.0
+57,ID07434,18-Feb,West,Gilbert,Cookies,Arrowroot,229.0,1.0,382.0
+58,ID00350,18-Nov,Northeast,Edison,Snacks,Potato Chips,207.0,1.0,606.0
+59,ID00080,12-Dec,West,Aurora,Cookies,Arrowroot,157.0,2.0,391.0
+60,ID00165,25-Oct,West,Gilbert,Bars,Bran,56.0,1.0,54.0
+61,ID00348,25-Feb,West,Bellevue,Cookies,Oatmeal Raisin,55.0,3.0,714.0
+62,ID00502,27-Jul,Northeast,Quincy,Beverages,Carrot,69.0,2.0,282.0
+63,ID00314,9-Nov,West,Fremont,Beverages,Carrot,278.0,2.0,683.0
+64,ID00495,28-Jan,West,Hesperia,Beverages,Carrot,208.0,1.0,609.0
+65,ID07481,21-Nov,South,Memphis,Crackers,Whole Wheat,121.0,3.0,89.0
+66,ID07422,19-Feb,West,Mesa,Crackers,Whole Wheat,42.0,3.0,531.0
+67,ID00125,22-Jan,South,Wilmington,Snacks,Pretzels,147.0,2.0,465.0
+68,ID00033,10-Feb,Midwest,Warren,Crackers,Whole Wheat,202.0,2.0,618.0
+69,ID00115,1-Apr,South,Little Rock,Bread and bakery products,Carrot,168.0,2.0,311.0
+70,ID00485,8-Mar,Northeast,Woodbridge,Bars,Banana,118.0,2.0,627.0
+71,ID00253,22-Apr,West,Lakewood,Bread and bakery products,Carrot,66.0,2.0,368.0
+72,ID07381,13-Feb,West,Honolulu,Bars,Carrot,138.0,3.0,473.0
+73,ID00086,23-Jan,South,Frisco,Cookies,Arrowroot,26.0,2.0,60.0
+74,ID00361,6-Jun,West,El Monte,Snacks,Pretzels,293.0,1.0,703.0
+75,ID00375,1-Oct,Northeast,Bridgeport,Beverages,Carrot,218.0,2.0,412.0
+76,ID00485,23-Mar,West,Vacaville,Beverages,Carrot,181.0,2.0,715.0
+77,ID00322,21-Dec,Midwest,Fargo,Cookies,Oatmeal Raisin,27.0,2.0,261.0
+78,ID00267,14-Jan,South,Denton,Cookies,Oatmeal Raisin,214.0,2.0,528.0
+79,ID07581,27-Jul,West,Chandler,Snacks,Potato Chips,85.0,2.0,125.0
+80,ID00510,15-Jun,West,Goodyear,Prepared and preserved foods,Carrot,293.0,1.0,788.0
+81,ID00285,1-Sep,South,Miami Gardens,Snacks,Potato Chips,167.0,3.0,724.0
+82,ID07594,11-Aug,West,Rancho Cucamonga,Crackers,Whole Wheat,59.0,1.0,87.0
+83,ID00485,28-Oct,Midwest,Dearborn,Cookies,Oatmeal Raisin,113.0,3.0,228.0
+84,ID07384,26-Aug,South,Houston,Cookies,Chocolate Chip,136.0,2.0,241.0
+85,ID00314,4-Jan,Midwest,Lee's Summit,Bars,Banana,216.0,2.0,312.0
+86,ID00249,31-May,West,Santa Clara,Cookies,Arrowroot,184.0,2.0,576.0
+87,ID00121,27-Jul,Midwest,Independence,Crackers,Whole Wheat,118.0,2.0,196.0
+88,ID07435,5-Jan,South,Corpus Christi,Bars,Carrot,25.0,3.0,340.0
+89,ID07527,28-Feb,Northeast,Rochester,Bars,Carrot,124.0,3.0,605.0
+90,ID00455,15-Nov,West,Hesperia,Snacks,Potato Chips,181.0,2.0,340.0
+91,ID00261,15-Feb,Northeast,Hartford,Snacks,Pretzels,240.0,1.0,352.0
+92,ID00087,5-Jan,South,Hollywood,Snacks,Potato Chips,136.0,2.0,121.0
+93,ID07567,1-May,West,Reno,Bars,Bran,194.0,3.0,370.0
+94,ID07559,6-Feb,West,Modesto,Bars,Bran,164.0,1.0,449.0
+95,ID07477,5-Aug,West,Santa Ana,Crackers,Whole Wheat,34.0,2.0,75.0
+96,ID00041,24-Jul,South,Macon,Bars,Banana,216.0,1.0,646.0
+97,ID07510,19-Apr,West,Moreno Valley,Cookies,Arrowroot,237.0,2.0,555.0
+98,ID00453,12-Jul,Northeast,Cambridge,Bread and bakery products,Carrot,137.0,1.0,464.0
+99,ID07362,11-Mar,South,Miami,Cookies,Chocolate Chip,301.0,2.0,810.0
+100,ID00252,26-Aug,South,Mesquite,Bread and bakery products,Carrot,84.0,1.0,286.0
+101,ID00443,22-Apr,South,Lakeland,Beverages,Carrot,225.0,1.0,297.0
+102,ID00457,18-Feb,West,Centennial,Beverages,Carrot,107.0,1.0,186.0
+103,ID00089,13-Feb,South,Athens,Cookies,Arrowroot,133.0,2.0,244.0
+104,ID00053,14-Aug,West,Fullerton,Cookies,Oatmeal Raisin,43.0,3.0,289.0
+105,ID00385,4-Jan,West,El Cajon,Bread and bakery products,Carrot,253.0,2.0,588.0
+106,ID07580,10-Oct,Midwest,Wichita,Bars,Bran,119.0,1.0,129.0
+107,ID00206,25-Sep,South,Killeen,Snacks,Pretzels,238.0,3.0,789.0
+108,ID00491,9-Jun,West,Longmont,Snacks,Pretzels,137.0,1.0,413.0
+109,ID00096,13-Oct,Midwest,Cincinnati,Snacks,Pretzels,76.0,2.0,122.0
+110,ID00003,22-Sep,West,Henderson,Bars,Bran,300.0,2.0,742.0
+111,ID00457,3-Jun,South,Tyler,Cookies,Arrowroot,163.0,2.0,537.0
+112,ID00318,21-Nov,South,Abilene,Cookies,Oatmeal Raisin,235.0,1.0,321.0
+113,ID00327,16-Sep,West,Sunnyvale,Snacks,Pretzels,87.0,2.0,203.0
+114,ID07440,18-Nov,Midwest,Saint Paul,Cookies,Arrowroot,244.0,2.0,406.0
+115,ID00490,13-Apr,South,Allen,Beverages,Carrot,301.0,1.0,808.0
+116,ID00361,23-Mar,West,Ontario,Beverages,Carrot,46.0,2.0,254.0
+117,ID00084,3-Feb,West,Orange,Snacks,Pretzels,175.0,1.0,625.0
+118,ID07524,16-Apr,South,Hialeah,Snacks,Potato Chips,65.0,2.0,104.0
+119,ID07570,6-Dec,South,Laredo,Snacks,Pretzels,50.0,2.0,160.0
+120,ID00427,30-Nov,Northeast,Manchester,Snacks,Pretzels,113.0,1.0,163.0
+121,ID00476,19-Oct,West,Daly City,Prepared and preserved foods,Carrot,303.0,2.0,797.0
+122,ID07513,10-Sep,Midwest,Cincinnati,Cookies,Chocolate Chip,23.0,2.0,37.0
+123,ID07536,4-Feb,South,El Paso,Snacks,Potato Chips,31.0,2.0,66.0
+124,ID00089,2-Mar,South,Huntsville,Cookies,Oatmeal Raisin,218.0,2.0,601.0
+125,ID00399,10-May,South,Wilmington,Prepared and preserved foods,Carrot,220.0,3.0,780.0
+126,ID00492,4-Apr,South,Tyler,Beverages,Carrot,256.0,2.0,766.0
+127,ID00355,30-Nov,West,Victorville,Crackers,Whole Wheat,237.0,2.0,520.0
+128,ID07411,7-Feb,West,San Jose,Crackers,Whole Wheat,27.0,3.0,191.0
+129,ID00485,1-Apr,West,Boulder,Prepared and preserved foods,Carrot,230.0,1.0,613.0
+130,ID07377,28-Sep,Midwest,Columbus,Cookies,Arrowroot,182.0,3.0,591.0
+131,ID00219,1-May,South,Columbia,Snacks,Potato Chips,119.0,3.0,735.0
+132,ID00257,20-Mar,South,Carrollton,Snacks,Pretzels,280.0,2.0,600.0
+133,ID07431,23-Jan,West,Portland,Bars,Carrot,108.0,3.0,341.0
+134,ID07419,20-Jan,Midwest,Wichita,Bars,Carrot,71.0,3.0,322.0
+135,ID07460,14-Jan,South,New Orleans,Bars,Carrot,275.0,1.0,423.0
+136,ID07392,28-Oct,South,Baltimore,Cookies,Chocolate Chip,286.0,2.0,454.0
+137,ID00066,15-Jun,South,Savannah,Cookies,Oatmeal Raisin,224.0,1.0,459.0
+138,ID00055,15-Jun,West,Salt Lake City,Snacks,Potato Chips,289.0,2.0,730.0
+139,ID00479,12-Jun,West,Clovis,Bars,Banana,146.0,2.0,587.0
+140,ID00009,18-Dec,West,Reno,Cookies,Arrowroot,259.0,2.0,535.0
+141,ID07508,13-Sep,South,Baton Rouge,Cookies,Chocolate Chip,96.0,2.0,225.0
+142,ID07486,19-Feb,West,Albuquerque,Snacks,Potato Chips,121.0,2.0,401.0
+143,ID00256,21-Jun,South,Savannah,Bars,Banana,217.0,2.0,330.0
+144,ID00510,27-Feb,Midwest,Davenport,Prepared and preserved foods,Carrot,44.0,2.0,184.0
+145,ID00214,14-Jan,South,Murfreesboro,Snacks,Potato Chips,35.0,1.0,137.0
+146,ID00165,12-Feb,West,Downey,Snacks,Potato Chips,147.0,2.0,326.0
+147,ID00023,2-Aug,West,Vancouver,Cookies,Arrowroot,254.0,2.0,531.0
+148,ID00158,16-Oct,Midwest,Des Moines,Cookies,Oatmeal Raisin,126.0,2.0,440.0
+149,ID00507,25-Sep,West,Rio Rancho,Prepared and preserved foods,Carrot,218.0,3.0,755.0
+150,ID07448,25-Sep,South,Tulsa,Cookies,Chocolate Chip,22.0,3.0,90.0
+151,ID00065,1-Jan,Midwest,Cedar Rapids,Snacks,Potato Chips,240.0,2.0,733.0
+152,ID00271,30-Jun,West,West Jordan,Cookies,Oatmeal Raisin,90.0,1.0,235.0
+153,ID00410,31-Jan,West,Chico,Prepared and preserved foods,Carrot,262.0,1.0,706.0
+154,ID07451,20-Aug,West,Sacramento,Crackers,Whole Wheat,36.0,3.0,299.0
+155,ID07419,24-Feb,South,Charlotte,Cookies,Oatmeal Raisin,204.0,2.0,191.0
+156,ID00118,25-Oct,West,Roseville,Crackers,Whole Wheat,259.0,2.0,664.0
+157,ID07414,22-Jan,Northeast,Jersey City,Cookies,Oatmeal Raisin,279.0,3.0,782.0
+158,ID00468,15-Jul,Midwest,Lee's Summit,Snacks,Pretzels,194.0,2.0,332.0
+159,ID00520,4-May,West,San Mateo,Beverages,Carrot,106.0,2.0,404.0
+160,ID00265,18-Feb,Midwest,Fargo,Bars,Banana,209.0,3.0,441.0
+161,ID00070,25-Feb,Midwest,Grand Rapids,Crackers,Whole Wheat,28.0,3.0,69.0
+162,ID07562,5-Aug,South,Plano,Cookies,Oatmeal Raisin,270.0,2.0,781.0
+163,ID00250,16-Jan,West,Thousand Oaks,Bread and bakery products,Carrot,254.0,2.0,609.0
+164,ID07363,20-Aug,West,Phoenix,Bars,Carrot,92.0,2.0,279.0
+165,ID00450,2-Mar,West,El Cajon,Beverages,Carrot,299.0,1.0,746.0
+166,ID07382,16-Sep,South,Charlotte,Cookies,Arrowroot,281.0,3.0,781.0
+167,ID00099,23-Aug,South,Mobile,Cookies,Oatmeal Raisin,86.0,2.0,130.0
+168,ID00040,16-Apr,South,McAllen,Cookies,Chocolate Chip,198.0,2.0,409.0
+169,ID00295,18-Jun,Midwest,Peoria,Snacks,Potato Chips,288.0,2.0,764.0
+170,ID00421,1-Sep,West,Rio Rancho,Bread and bakery products,Carrot,29.0,2.0,155.0
+171,ID00396,12-Dec,West,Bellevue,Cookies,Oatmeal Raisin,128.0,3.0,573.0
+172,ID00333,1-Feb,Northeast,Lakewood,Beverages,Carrot,183.0,2.0,464.0
+173,ID00110,27-Jul,West,Lancaster,Bars,Banana,221.0,3.0,650.0
+174,ID07377,28-Feb,West,Bakersfield,Bars,Carrot,74.0,3.0,169.0
+175,ID00202,31-Oct,West,West Jordan,Cookies,Oatmeal Raisin,54.0,2.0,61.0
+176,ID00374,19-Apr,West,Downey,Bread and bakery products,Carrot,46.0,2.0,109.0
+177,ID00496,7-Jan,West,Ventura,Beverages,Carrot,154.0,3.0,547.0
+178,ID00103,9-Jul,Midwest,Dayton,Snacks,Pretzels,253.0,3.0,802.0
+179,ID07408,12-Dec,South,Washington,Cookies,Chocolate Chip,175.0,2.0,438.0
+180,ID00377,28-Sep,West,Pueblo,Bread and bakery products,Carrot,87.0,2.0,351.0
+181,ID00266,12-Dec,West,Eugene,Snacks,Potato Chips,164.0,2.0,217.0
+182,ID07468,30-Dec,West,Anaheim,Cookies,Arrowroot,167.0,2.0,478.0
+183,ID00489,18-Feb,West,Rio Rancho,Beverages,Carrot,165.0,2.0,643.0
+184,ID00388,19-Sep,West,Simi Valley,Cookies,Oatmeal Raisin,174.0,3.0,387.0
+185,ID00041,4-Sep,South,Knoxville,Snacks,Potato Chips,184.0,1.0,409.0
+186,ID00068,2-Mar,South,Murfreesboro,Bars,Bran,82.0,2.0,128.0
+187,ID00306,24-Nov,South,Pearland,Snacks,Pretzels,174.0,2.0,439.0
+188,ID00138,28-Apr,West,Huntington Beach,Prepared and preserved foods,Carrot,82.0,3.0,258.0
+189,ID07432,27-Nov,Midwest,Des Moines,Crackers,Whole Wheat,160.0,2.0,117.0
+190,ID00076,22-Sep,South,Carrollton,Bars,Banana,241.0,2.0,642.0
+191,ID00320,25-Sep,West,Ventura,Cookies,Oatmeal Raisin,205.0,2.0,768.0
+192,ID07492,14-Jan,South,Tulsa,Crackers,Whole Wheat,77.0,2.0,226.0
+193,ID00314,3-Jul,South,Lafayette,Bars,Banana,171.0,2.0,348.0
+194,ID00160,28-Oct,South,Jackson,Snacks,Potato Chips,243.0,1.0,209.0
+195,ID00471,13-Oct,Northeast,Woodbridge,Beverages,Carrot,298.0,1.0,693.0
+196,ID00524,10-Feb,Midwest,Fishers,Bread and bakery products,Carrot,152.0,3.0,232.0
+197,ID00486,31-May,West,Simi Valley,Beverages,Carrot,302.0,2.0,815.0
+198,ID00447,22-Jan,Northeast,New Bedford,Prepared and preserved foods,Carrot,179.0,2.0,369.0
+199,ID07578,16-May,West,Peoria,Snacks,Potato Chips,104.0,3.0,70.0
+200,ID00004,5-Aug,South,Brownsville,Snacks,Potato Chips,121.0,3.0,606.0
+201,ID07540,30-Nov,West,Honolulu,Bars,Carrot,41.0,2.0,279.0
+202,ID00215,12-Jun,South,Denton,Bread and bakery products,Carrot,80.0,3.0,107.0
+203,ID07420,12-Dec,South,Laredo,Cookies,Chocolate Chip,105.0,2.0,164.0
+204,ID07548,23-Mar,South,Shreveport,Snacks,Potato Chips,169.0,1.0,161.0
+205,ID00099,18-Jul,West,Lancaster,Cookies,Arrowroot,24.0,3.0,326.0
+206,ID00015,23-Jan,West,Stockton,Bread and bakery products,Carrot,225.0,2.0,681.0
+207,ID07538,8-Jan,South,St. Petersburg,Cookies,Arrowroot,96.0,2.0,302.0
+208,ID00307,18-Feb,West,Sparks,Prepared and preserved foods,Carrot,128.0,1.0,111.0
+209,ID00367,3-Feb,South,High Point,Beverages,Carrot,300.0,1.0,736.0
+210,ID00040,23-Jan,West,Lakewood,Snacks,Potato Chips,303.0,2.0,810.0
+211,ID00205,2-Aug,South,Frisco,Cookies,Oatmeal Raisin,204.0,3.0,393.0
+212,ID00522,22-Oct,Northeast,New Bedford,Beverages,Carrot,136.0,1.0,371.0
+213,ID00117,12-Feb,West,Spokane Valley,Snacks,Potato Chips,92.0,1.0,228.0
+214,ID00347,8-Mar,West,Inglewood,Bars,Banana,173.0,1.0,167.0
+215,ID07553,16-Apr,Midwest,Toledo,Crackers,Whole Wheat,306.0,2.0,813.0
+216,ID07526,18-Dec,South,Denton,Crackers,Whole Wheat,32.0,2.0,132.0
+217,ID07584,15-Dec,Midwest,Des Moines,Snacks,Pretzels,127.0,3.0,210.0
+218,ID00118,1-Sep,South,Knoxville,Snacks,Pretzels,138.0,1.0,219.0
+219,ID00031,7-Apr,Midwest,Toledo,Cookies,Arrowroot,257.0,2.0,533.0
+220,ID07465,10-Apr,South,Baton Rouge,Bars,Bran,281.0,2.0,633.0
+221,ID00249,15-Feb,West,Fort Collins,Snacks,Pretzels,241.0,3.0,689.0
+222,ID00264,4-Oct,Midwest,Cedar Rapids,Beverages,Carrot,158.0,2.0,700.0
+223,ID00380,4-May,West,Rio Rancho,Snacks,Pretzels,110.0,2.0,291.0
+224,ID00327,28-May,Midwest,Sterling Heights,Bread and bakery products,Carrot,107.0,1.0,106.0
+225,ID00440,12-Nov,South,Sandy Springs,Snacks,Potato Chips,68.0,3.0,222.0
+226,ID07388,18-Dec,West,Irvine,Bars,Carrot,141.0,2.0,99.0
+227,ID00486,19-Sep,Northeast,Lynn,Snacks,Potato Chips,293.0,2.0,796.0
+228,ID00240,15-Jul,West,Concord,Cookies,Chocolate Chip,49.0,3.0,332.0
+229,ID00467,16-May,West,Hesperia,Bars,Bran,141.0,2.0,134.0
+230,ID00073,4-May,West,Bellevue,Snacks,Pretzels,178.0,3.0,763.0
+231,ID00063,30-Jul,Northeast,Worcester,Cookies,Arrowroot,193.0,2.0,364.0
+232,ID07594,1-Feb,South,El Paso,Snacks,Pretzels,146.0,2.0,534.0
+233,ID07524,6-Jul,West,Tacoma,Cookies,Chocolate Chip,109.0,3.0,125.0
+234,ID00233,8-Mar,Midwest,Rockford,Prepared and preserved foods,Carrot,193.0,2.0,506.0
+235,ID00076,31-May,Midwest,Fort Wayne,Bread and bakery products,Carrot,223.0,2.0,542.0
+236,ID00332,27-Feb,Northeast,Edison,Bars,Banana,278.0,1.0,780.0
+237,ID07388,7-Jan,South,Dallas,Cookies,Oatmeal Raisin,220.0,2.0,637.0
+238,ID00140,4-Sep,Midwest,Cincinnati,Prepared and preserved foods,Carrot,85.0,2.0,376.0
+239,ID00087,22-Sep,West,Rancho Cucamonga,Cookies,Oatmeal Raisin,193.0,3.0,686.0
+240,ID07451,28-Jan,West,Anaheim,Snacks,Potato Chips,46.0,3.0,591.0
+241,ID00073,18-Jul,South,Little Rock,Cookies,Chocolate Chip,91.0,2.0,550.0
+242,ID00497,13-May,West,Hesperia,Prepared and preserved foods,Carrot,274.0,2.0,656.0
+243,ID00431,15-Jun,South,Lafayette,Snacks,Pretzels,113.0,1.0,208.0
+244,ID07554,3-Jun,West,Oxnard,Cookies,Chocolate Chip,90.0,1.0,64.0
+245,ID00160,6-Jul,West,Santa Clarita,Snacks,Potato Chips,46.0,3.0,159.0
+246,ID07504,31-May,South,Amarillo,Bars,Bran,202.0,1.0,651.0
+247,ID00448,12-Jul,West,San Mateo,Bread and bakery products,Carrot,239.0,1.0,343.0
+248,ID07512,16-Oct,West,Vancouver,Bars,Carrot,112.0,3.0,381.0
+249,ID00460,16-May,Midwest,Green Bay,Beverages,Carrot,273.0,1.0,487.0
+250,ID00432,10-Feb,South,Beaumont,Bars,Banana,38.0,2.0,334.0
+251,ID07461,10-Oct,South,Lubbock,Crackers,Whole Wheat,205.0,2.0,259.0
+252,ID00219,15-Jul,South,Fort Lauderdale,Cookies,Oatmeal Raisin,129.0,3.0,494.0
+253,ID07579,3-Dec,West,Tempe,Crackers,Whole Wheat,79.0,3.0,152.0
+254,ID07577,22-May,South,Frisco,Snacks,Potato Chips,27.0,1.0,40.0
+255,ID00004,13-Sep,West,Spokane,Cookies,Oatmeal Raisin,175.0,2.0,402.0
+256,ID07500,2-Mar,West,San Jose,Bars,Bran,104.0,1.0,72.0
+257,ID00509,22-Jan,Midwest,Dearborn,Beverages,Carrot,144.0,3.0,549.0
+258,ID00525,7-Jan,Midwest,Carmel,Beverages,Carrot,278.0,1.0,744.0
+259,ID00285,22-May,South,Killeen,Snacks,Potato Chips,160.0,2.0,440.0
+260,ID00353,4-Apr,West,Westminster,Bread and bakery products,Carrot,146.0,2.0,353.0
+261,ID00383,27-Dec,South,Clarksville,Bars,Banana,247.0,2.0,411.0
+262,ID07369,25-Sep,Northeast,New York,Cookies,Chocolate Chip,123.0,3.0,402.0
+263,ID00263,15-Feb,South,Waco,Prepared and preserved foods,Carrot,298.0,1.0,745.0
+264,ID07480,27-Dec,South,Charlotte,Snacks,Potato Chips,28.0,2.0,59.0
+265,ID00342,15-Feb,West,Arvada,Beverages,Carrot,150.0,2.0,617.0
+266,ID00235,15-Dec,South,Murfreesboro,Snacks,Potato Chips,40.0,2.0,66.0
+267,ID00212,23-Mar,West,Fullerton,Bars,Banana,280.0,3.0,725.0
+268,ID07378,15-Jun,South,Oklahoma City,Bars,Carrot,99.0,3.0,129.0
+269,ID07401,29-Jan,South,Dallas,Bars,Carrot,24.0,3.0,89.0
+270,ID00149,30-Nov,West,Lancaster,Snacks,Potato Chips,290.0,2.0,590.0
+271,ID00302,19-Sep,West,Salem,Bars,Banana,157.0,1.0,400.0
+272,ID07467,24-Dec,West,Sacramento,Snacks,Potato Chips,121.0,2.0,524.0
+273,ID07547,21-Feb,South,McKinney,Snacks,Pretzels,258.0,1.0,475.0
+274,ID00311,12-Feb,South,Broken Arrow,Bread and bakery products,Carrot,148.0,2.0,182.0
+275,ID00141,7-Apr,South,South Fulton,Cookies,Chocolate Chip,70.0,2.0,457.0
+276,ID00257,25-Oct,South,Hollywood,Bread and bakery products,Carrot,233.0,1.0,353.0
+277,ID07434,2-Mar,West,Aurora,Cookies,Arrowroot,152.0,3.0,579.0
+278,ID07540,18-Nov,West,Torrance,Snacks,Potato Chips,126.0,3.0,340.0
+279,ID07515,24-Dec,West,Modesto,Crackers,Whole Wheat,46.0,3.0,364.0
+280,ID00106,6-Jun,South,Palm Bay,Cookies,Arrowroot,42.0,3.0,220.0
+281,ID07500,1-Oct,South,Atlanta,Cookies,Oatmeal Raisin,162.0,3.0,698.0
+282,ID07583,22-Sep,South,Winston–Salem,Cookies,Oatmeal Raisin,297.0,3.0,789.0
+283,ID00063,19-Jan,West,Tempe,Bars,Banana,272.0,2.0,472.0
+284,ID07402,1-Apr,South,Jacksonville,Cookies,Arrowroot,62.0,3.0,516.0
+285,ID00378,27-Feb,West,Hillsboro,Prepared and preserved foods,Carrot,241.0,2.0,542.0
+286,ID00157,17-Mar,Northeast,Hartford,Bars,Banana,107.0,3.0,374.0
+287,ID00419,4-May,South,Wichita Falls,Cookies,Oatmeal Raisin,62.0,2.0,107.0
+288,ID00348,19-Oct,South,Mesquite,Prepared and preserved foods,Carrot,70.0,2.0,255.0
+289,ID00268,13-Jan,West,Eugene,Beverages,Carrot,221.0,2.0,529.0
+290,ID07366,15-Jun,West,San Diego,Bars,Bran,145.0,2.0,390.0
+291,ID00114,16-Feb,West,Huntington Beach,Cookies,Arrowroot,49.0,2.0,333.0
+292,ID07424,28-May,Midwest,Omaha,Cookies,Chocolate Chip,258.0,2.0,503.0
+293,ID00101,13-Sep,South,Macon,Cookies,Arrowroot,219.0,2.0,670.0
+294,ID00522,29-Aug,Northeast,Lynn,Beverages,Carrot,157.0,1.0,365.0
+295,ID00486,14-Aug,South,Concord,Bars,Banana,220.0,1.0,676.0
+296,ID00289,12-Nov,Northeast,New Haven,Snacks,Pretzels,259.0,1.0,309.0
+297,ID00415,30-Jun,West,Greeley,Prepared and preserved foods,Carrot,240.0,2.0,592.0
+298,ID07373,1-Feb,South,Fort Worth,Bars,Carrot,284.0,2.0,509.0
+299,ID00363,5-Aug,South,Pompano Beach,Bars,Banana,266.0,1.0,388.0
+300,ID07488,28-Feb,Midwest,Detroit,Bars,Carrot,282.0,3.0,675.0
+301,ID00255,4-Jan,South,Miramar,Beverages,Carrot,36.0,2.0,213.0
+302,ID00106,10-May,West,Scottsdale,Cookies,Oatmeal Raisin,47.0,2.0,86.0
+303,ID00356,13-Oct,Midwest,Rochester,Prepared and preserved foods,Carrot,170.0,2.0,564.0
+304,ID00460,19-May,West,Costa Mesa,Prepared and preserved foods,Carrot,64.0,2.0,387.0
+305,ID07360,1-Feb,West,San Diego,Bars,Carrot,118.0,2.0,123.0
+306,ID00502,3-Feb,West,Ventura,Beverages,Carrot,50.0,2.0,277.0
+307,ID00377,27-Jul,Midwest,Lansing,Prepared and preserved foods,Carrot,66.0,2.0,213.0
+308,ID07430,22-Oct,Midwest,Wichita,Cookies,Arrowroot,198.0,3.0,549.0
+309,ID07492,30-Dec,Midwest,Kansas City,Crackers,Whole Wheat,227.0,1.0,318.0
+310,ID00293,25-Apr,West,Elk Grove,Snacks,Pretzels,123.0,2.0,311.0
+311,ID00496,4-Sep,Northeast,Manchester,Beverages,Carrot,128.0,2.0,312.0
+312,ID00413,28-Sep,West,Sparks,Snacks,Pretzels,287.0,2.0,782.0
+313,ID00111,10-Apr,Northeast,Paterson,Cookies,Oatmeal Raisin,175.0,2.0,309.0
+314,ID00435,13-Oct,West,Antioch,Cookies,Oatmeal Raisin,263.0,1.0,646.0
+315,ID00427,10-Oct,South,Lafayette,Bars,Bran,251.0,1.0,456.0
+316,ID00524,24-Feb,West,Longmont,Beverages,Carrot,298.0,1.0,796.0
+317,ID00023,3-Feb,Midwest,Rockford,Cookies,Chocolate Chip,42.0,2.0,95.0
+318,ID00393,18-Nov,South,Little Rock,Prepared and preserved foods,Carrot,263.0,2.0,679.0
+319,ID00523,15-Nov,West,Hesperia,Beverages,Carrot,170.0,2.0,528.0
+320,ID00004,15-Nov,West,West Valley City,Snacks,Potato Chips,167.0,3.0,662.0
+321,ID00160,24-Jun,South,Alexandria,Prepared and preserved foods,Carrot,184.0,1.0,419.0
+322,ID00036,27-Dec,South,Huntsville,Cookies,Chocolate Chip,199.0,2.0,381.0
+323,ID00130,24-Dec,South,Little Rock,Cookies,Arrowroot,95.0,2.0,286.0
+324,ID00421,20-Mar,Northeast,Brockton,Bars,Banana,266.0,3.0,803.0
+325,ID07572,26-Jan,West,Santa Clarita,Bars,Carrot,168.0,2.0,117.0
+326,ID00264,10-Feb,West,Pasadena,Bars,Carrot,39.0,1.0,42.0
+327,ID00296,20-Mar,Midwest,Independence,Bars,Bran,83.0,2.0,436.0
+328,ID07560,26-Jan,South,Miramar,Crackers,Whole Wheat,27.0,3.0,61.0
+329,ID00300,12-Jul,South,Sugar Land,Bars,Banana,167.0,3.0,479.0
+330,ID00366,28-Oct,West,Arvada,Cookies,Chocolate Chip,148.0,2.0,596.0
+331,ID00362,17-Mar,West,Downey,Snacks,Pretzels,41.0,1.0,62.0
+332,ID00121,31-May,South,Columbia,Cookies,Oatmeal Raisin,250.0,2.0,731.0
+333,ID00312,6-Feb,Midwest,Grand Rapids,Bread and bakery products,Carrot,211.0,1.0,164.0
+334,ID00228,24-Jul,South,Clearwater,Cookies,Arrowroot,152.0,3.0,480.0
+335,ID00443,30-Nov,West,Vallejo,Bread and bakery products,Carrot,268.0,2.0,802.0
+336,ID00352,14-Mar,West,Clovis,Bread and bakery products,Carrot,88.0,1.0,384.0
+337,ID00297,1-Apr,West,West Jordan,Snacks,Pretzels,70.0,3.0,389.0
+338,ID07462,2-Jan,South,Memphis,Bars,Carrot,204.0,3.0,598.0
+339,ID00119,28-Apr,Midwest,Topeka,Snacks,Potato Chips,224.0,2.0,737.0
+340,ID00146,17-Aug,South,Alexandria,Snacks,Pretzels,124.0,2.0,528.0
+341,ID07572,27-Nov,West,Spokane,Bars,Bran,97.0,2.0,78.0
+342,ID00328,6-Dec,West,Las Cruces,Cookies,Oatmeal Raisin,38.0,3.0,226.0
+343,ID07440,26-Jan,South,Corpus Christi,Bars,Carrot,193.0,3.0,598.0
+344,ID00301,4-Feb,Northeast,Elizabeth,Crackers,Whole Wheat,172.0,3.0,332.0
+345,ID00312,5-Jan,West,Ontario,Bread and bakery products,Carrot,127.0,3.0,702.0
+346,ID00449,4-Jan,West,El Monte,Beverages,Carrot,190.0,2.0,700.0
+347,ID00292,16-Jan,Northeast,Waterbury,Snacks,Pretzels,103.0,1.0,289.0
+348,ID00106,3-Jul,South,Odessa,Cookies,Arrowroot,220.0,2.0,688.0
+349,ID00213,5-Jan,West,Clovis,Cookies,Arrowroot,70.0,3.0,335.0
+350,ID00032,23-Mar,South,Baton Rouge,Bars,Bran,288.0,1.0,502.0
+351,ID00348,19-Oct,South,Norfolk,Prepared and preserved foods,Carrot,147.0,1.0,205.0
+352,ID00027,29-Mar,South,Birmingham,Snacks,Pretzels,119.0,2.0,635.0
+353,ID00313,16-Apr,South,Richardson,Prepared and preserved foods,Carrot,186.0,2.0,223.0
+354,ID07576,13-Oct,West,Rancho Cucamonga,Bars,Banana,91.0,2.0,114.0
+355,ID07403,21-Jun,South,Washington,Crackers,Whole Wheat,143.0,2.0,168.0
+356,ID00298,12-Nov,West,Escondido,Snacks,Potato Chips,143.0,2.0,676.0
+357,ID00268,15-Jul,Northeast,Manchester,Bars,Bran,192.0,2.0,482.0
+358,ID00027,19-Jan,West,Salem,Snacks,Pretzels,283.0,2.0,808.0
+359,ID00083,16-Sep,Midwest,Grand Rapids,Bars,Banana,200.0,2.0,407.0
+360,ID00230,29-Mar,South,Richardson,Cookies,Arrowroot,227.0,2.0,515.0
+361,ID07469,27-Jun,West,Gilbert,Cookies,Arrowroot,142.0,2.0,387.0
+362,ID00522,27-Jul,West,Longmont,Prepared and preserved foods,Carrot,276.0,2.0,763.0
+363,ID00345,13-Oct,Midwest,Topeka,Cookies,Oatmeal Raisin,154.0,2.0,517.0
+364,ID00420,27-Jul,Northeast,Hartford,Bars,Banana,122.0,2.0,238.0
+365,ID07466,12-Jul,South,Virginia Beach,Snacks,Potato Chips,77.0,1.0,189.0
+366,ID00521,3-Jun,West,Daly City,Prepared and preserved foods,Carrot,118.0,2.0,328.0
+367,ID00041,12-Dec,South,Cape Coral,Cookies,Arrowroot,239.0,3.0,620.0
+368,ID00464,13-Jan,Northeast,Woodbridge,Prepared and preserved foods,Carrot,45.0,1.0,101.0
+369,ID00159,8-Aug,Midwest,Cincinnati,Beverages,Carrot,67.0,2.0,93.0
+370,ID00382,26-Jan,South,Athens,Bars,Bran,266.0,2.0,536.0
+371,ID00501,13-Oct,Northeast,Lynn,Prepared and preserved foods,Carrot,53.0,1.0,59.0
+372,ID07429,6-Nov,West,Fresno,Bars,Carrot,217.0,2.0,134.0
+373,ID00482,22-Apr,Northeast,Woodbridge,Bars,Banana,244.0,1.0,248.0
+374,ID00412,19-May,West,Greeley,Snacks,Pretzels,110.0,1.0,618.0
+375,ID00426,19-Apr,South,Lewisville,Beverages,Carrot,150.0,2.0,332.0
+376,ID00261,11-Jan,West,El Monte,Crackers,Whole Wheat,277.0,2.0,487.0
+377,ID00156,26-Mar,South,Fayetteville,Beverages,Carrot,296.0,1.0,717.0
+378,ID07395,4-Apr,West,Anaheim,Cookies,Arrowroot,262.0,2.0,705.0
+379,ID00052,16-Sep,West,Rancho Cucamonga,Snacks,Pretzels,55.0,2.0,278.0
+380,ID07560,17-Aug,West,Fremont,Snacks,Potato Chips,99.0,1.0,114.0
+381,ID00266,6-Feb,West,Meridian,Prepared and preserved foods,Carrot,250.0,1.0,523.0
+382,ID07421,29-Aug,South,Washington,Snacks,Potato Chips,274.0,2.0,603.0
+383,ID00361,9-Jul,West,Las Cruces,Bars,Bran,177.0,2.0,585.0
+384,ID07564,11-Mar,West,West Valley City,Cookies,Arrowroot,89.0,2.0,118.0
+385,ID00240,13-May,South,Lewisville,Snacks,Potato Chips,130.0,2.0,461.0
+386,ID00083,20-Aug,South,Orlando,Bars,Banana,131.0,1.0,106.0
+387,ID07492,11-Aug,West,Scottsdale,Crackers,Whole Wheat,82.0,3.0,216.0
+388,ID07483,10-Oct,West,Henderson,Cookies,Oatmeal Raisin,290.0,3.0,680.0
+389,ID07421,9-Jul,South,Louisville,Crackers,Whole Wheat,179.0,3.0,696.0
+390,ID07367,24-Dec,Northeast,Philadelphia,Cookies,Arrowroot,249.0,1.0,535.0
+391,ID00147,29-Aug,Midwest,Des Moines,Bars,Banana,243.0,1.0,633.0
+392,ID00470,25-May,West,Sparks,Bread and bakery products,Carrot,248.0,1.0,366.0
+393,ID07388,13-Oct,South,Houston,Crackers,Whole Wheat,139.0,2.0,707.0
+394,ID00265,21-Feb,South,Clearwater,Bars,Banana,71.0,1.0,375.0
+395,ID07430,27-Nov,Northeast,Buffalo,Cookies,Chocolate Chip,116.0,3.0,426.0
+396,ID07573,10-Oct,West,Chula Vista,Cookies,Oatmeal Raisin,254.0,2.0,498.0
+397,ID07386,10-Oct,West,San Jose,Crackers,Whole Wheat,201.0,2.0,254.0
+398,ID00353,16-Oct,West,Fullerton,Beverages,Carrot,261.0,3.0,561.0
+399,ID07554,21-Nov,West,Bakersfield,Cookies,Arrowroot,46.0,3.0,357.0
+400,ID00241,15-Jul,West,Elk Grove,Bars,Bran,138.0,3.0,398.0
+401,ID00485,13-Jan,West,El Monte,Prepared and preserved foods,Carrot,236.0,1.0,191.0
+402,ID00529,5-Mar,West,Longmont,Beverages,Carrot,303.0,2.0,750.0
+403,ID00460,1-Apr,West,Billings,Beverages,Carrot,249.0,1.0,491.0
+404,ID07440,25-May,South,Oklahoma City,Crackers,Whole Wheat,164.0,3.0,474.0
+405,ID00495,8-Aug,West,Boulder,Prepared and preserved foods,Carrot,260.0,1.0,648.0
+406,ID00338,13-Apr,South,Allen,Bars,Bran,101.0,3.0,686.0
+407,ID00245,13-May,Midwest,Aurora,Snacks,Pretzels,281.0,2.0,561.0
+408,ID00291,10-Sep,Midwest,Peoria,Bars,Banana,54.0,2.0,149.0
+409,ID07364,5-Jan,South,Charlotte,Bars,Carrot,262.0,1.0,517.0
+410,ID00500,15-Jul,West,Renton,Beverages,Carrot,206.0,2.0,762.0
+411,ID00239,6-Nov,Midwest,Topeka,Bread and bakery products,Carrot,301.0,2.0,793.0
+412,ID07521,27-Dec,South,St. Petersburg,Crackers,Whole Wheat,135.0,2.0,580.0
+413,ID00485,10-Jan,West,Buckeye,Beverages,Carrot,203.0,2.0,618.0
+414,ID00338,22-Feb,Midwest,Fargo,Bars,Banana,50.0,2.0,247.0
+415,ID07554,10-May,South,Brownsville,Bars,Bran,298.0,2.0,816.0
+416,ID00347,3-Jul,South,Pompano Beach,Bread and bakery products,Carrot,201.0,2.0,454.0
+417,ID00225,16-Jan,Northeast,Allentown,Prepared and preserved foods,Carrot,274.0,2.0,611.0
+418,ID00101,28-Sep,West,Stockton,Beverages,Carrot,213.0,3.0,513.0
+419,ID07356,8-Aug,Midwest,Chicago,Cookies,Chocolate Chip,202.0,3.0,441.0
+420,ID00439,22-Sep,West,Carlsbad,Snacks,Pretzels,41.0,2.0,58.0
+421,ID00373,19-Oct,West,Billings,Bars,Bran,133.0,3.0,635.0
+422,ID00164,10-Apr,South,Miramar,Bread and bakery products,Carrot,281.0,2.0,776.0
+423,ID07432,27-Jun,West,Reno,Bars,Carrot,104.0,2.0,193.0
+424,ID00332,6-Nov,West,Boulder,Cookies,Chocolate Chip,43.0,3.0,229.0
+425,ID00018,11-Aug,South,Jackson,Bars,Bran,114.0,1.0,251.0
+426,ID00399,19-Apr,Northeast,Edison,Bread and bakery products,Carrot,275.0,2.0,716.0
+427,ID00255,16-Feb,West,Salinas,Bread and bakery products,Carrot,260.0,3.0,797.0
+428,ID07416,18-Jul,West,Riverside,Snacks,Potato Chips,239.0,1.0,258.0
+429,ID00260,22-Oct,West,Clovis,Crackers,Whole Wheat,55.0,2.0,97.0
+430,ID00518,19-Jan,West,Longmont,Prepared and preserved foods,Carrot,207.0,2.0,477.0
+431,ID00027,20-Mar,South,Huntsville,Prepared and preserved foods,Carrot,26.0,1.0,61.0
+432,ID00092,17-Jan,South,Tampa,Crackers,Whole Wheat,196.0,2.0,403.0
+433,ID00449,26-Jan,Northeast,Woodbridge,Bread and bakery products,Carrot,223.0,2.0,771.0
+434,ID07498,18-Jun,South,Corpus Christi,Cookies,Arrowroot,201.0,3.0,375.0
+435,ID00154,17-Mar,West,Santa Rosa,Bread and bakery products,Carrot,137.0,2.0,402.0
+436,ID00272,17-Mar,West,Provo,Bread and bakery products,Carrot,259.0,1.0,302.0
+437,ID00319,2-Jan,Midwest,Dearborn,Bars,Bran,114.0,1.0,153.0
+438,ID00157,14-Mar,South,Odessa,Snacks,Pretzels,285.0,1.0,686.0
+439,ID00231,31-Oct,South,West Palm Beach,Cookies,Arrowroot,198.0,2.0,516.0
+440,ID00514,17-Mar,West,Daly City,Beverages,Carrot,200.0,1.0,779.0
+441,ID07563,25-May,West,Reno,Cookies,Arrowroot,193.0,1.0,101.0
+442,ID00092,24-Nov,South,Shreveport,Cookies,Arrowroot,203.0,1.0,236.0
+443,ID00431,10-Oct,West,Concord,Prepared and preserved foods,Carrot,173.0,3.0,687.0
+444,ID07540,18-Jul,Northeast,Rochester,Bars,Bran,247.0,1.0,547.0
+445,ID00433,7-Oct,West,West Jordan,Bars,Banana,189.0,2.0,430.0
+446,ID07353,26-Mar,West,San Diego,Bars,Carrot,71.0,3.0,326.0
+447,ID00479,22-Apr,West,Burbank,Prepared and preserved foods,Carrot,173.0,2.0,392.0
+448,ID07455,25-Feb,Midwest,Omaha,Bars,Carrot,194.0,2.0,318.0
+449,ID00418,21-Jul,Midwest,Peoria,Bars,Banana,176.0,2.0,348.0
+450,ID00520,20-Jan,West,Daly City,Prepared and preserved foods,Carrot,223.0,2.0,264.0
+451,ID07422,25-Sep,Midwest,Indianapolis,Bars,Carrot,120.0,3.0,381.0
+452,ID07417,3-Jun,South,Norfolk,Cookies,Arrowroot,168.0,3.0,692.0
+453,ID07407,20-Jan,South,Houston,Cookies,Arrowroot,106.0,3.0,247.0
+454,ID00117,30-Nov,South,Columbia,Cookies,Chocolate Chip,29.0,2.0,190.0
+455,ID00253,25-Oct,Northeast,Allentown,Snacks,Pretzels,249.0,2.0,639.0
+456,ID00394,29-Jan,West,Concord,Cookies,Chocolate Chip,28.0,2.0,103.0
+457,ID07566,19-Sep,Northeast,Buffalo,Cookies,Oatmeal Raisin,56.0,2.0,146.0
+458,ID07491,29-Jan,South,Montgomery,Cookies,Arrowroot,169.0,2.0,415.0
+459,ID00161,17-Jan,West,Roseville,Crackers,Whole Wheat,173.0,2.0,88.0
+460,ID00095,24-Dec,West,Salem,Snacks,Potato Chips,70.0,1.0,146.0
+461,ID07408,10-Feb,South,Dallas,Crackers,Whole Wheat,174.0,3.0,506.0
+462,ID00085,7-Oct,South,Cary,Snacks,Potato Chips,75.0,3.0,329.0
+463,ID00442,13-May,Midwest,Fishers,Bread and bakery products,Carrot,274.0,1.0,176.0
+464,ID07387,24-Feb,West,Anaheim,Crackers,Whole Wheat,244.0,2.0,499.0
+465,ID07587,1-May,South,Augusta,Bars,Bran,112.0,2.0,273.0
+466,ID00028,20-Jan,Northeast,Buffalo,Bars,Bran,234.0,3.0,651.0
+467,ID00224,12-Jul,West,Pasadena,Bars,Bran,85.0,2.0,340.0
+468,ID00366,18-Dec,West,Garden Grove,Bread and bakery products,Carrot,37.0,2.0,118.0
+469,ID00365,15-Jun,West,Thousand Oaks,Bars,Bran,128.0,1.0,205.0
+470,ID07358,5-Aug,West,San Jose,Bars,Carrot,90.0,2.0,298.0
+471,ID07484,23-Mar,Midwest,Fort Wayne,Bars,Banana,44.0,1.0,40.0
+472,ID07482,9-Dec,Midwest,Kansas City,Crackers,Whole Wheat,97.0,3.0,174.0
+473,ID00501,24-Dec,Midwest,South Bend,Beverages,Carrot,187.0,2.0,708.0
+474,ID07531,29-Jan,Midwest,Cincinnati,Crackers,Whole Wheat,44.0,3.0,273.0
+475,ID00075,25-Oct,West,Sacramento,Bread and bakery products,Carrot,152.0,2.0,550.0
+476,ID07416,25-Feb,West,Colorado Springs,Bars,Carrot,47.0,3.0,140.0
+477,ID00420,3-Jul,South,Tyler,Bars,Banana,39.0,1.0,35.0
+478,ID07378,1-Feb,East,New York,Bars,Carrot,226.0,3.0,778.0
+479,ID00277,18-Jun,West,Visalia,Snacks,Pretzels,250.0,2.0,761.0
+480,ID00288,6-Jul,Northeast,Lowell,Snacks,Potato Chips,131.0,1.0,193.0
+481,ID00351,2-Aug,West,Pasadena,Bread and bakery products,Carrot,199.0,3.0,606.0
+482,ID00112,3-Nov,Midwest,Des Moines,Cookies,Arrowroot,136.0,3.0,720.0
+483,ID00314,20-Mar,South,Broken Arrow,Bars,Banana,67.0,2.0,510.0
+484,ID00093,4-Sep,Midwest,Madison,Snacks,Pretzels,192.0,3.0,567.0
+485,ID00320,5-Jan,West,Eugene,Bars,Bran,84.0,2.0,567.0
+486,ID00271,20-Aug,West,Billings,Cookies,Chocolate Chip,54.0,1.0,96.0
+487,ID00261,27-Jul,South,Columbia,Prepared and preserved foods,Carrot,85.0,3.0,504.0
+488,ID00064,28-Sep,West,Torrance,Bars,Carrot,125.0,2.0,241.0
+489,ID00007,24-Nov,West,Sunnyvale,Cookies,Chocolate Chip,26.0,3.0,60.0
+490,ID00153,9-Feb,South,Hialeah,Bread and bakery products,Carrot,193.0,2.0,572.0
+491,ID07515,12-Feb,Midwest,Wichita,Bread and bakery products,Carrot,301.0,2.0,814.0
+492,ID07505,9-Nov,South,Mobile,Crackers,Whole Wheat,262.0,2.0,744.0
+493,ID00404,19-Jan,West,Greeley,Prepared and preserved foods,Carrot,295.0,1.0,787.0
+494,ID07525,10-Feb,West,Long Beach,Snacks,Pretzels,90.0,2.0,517.0
+495,ID07502,16-Apr,Northeast,Bridgeport,Cookies,Arrowroot,183.0,1.0,386.0
+496,ID00216,16-May,Midwest,Warren,Prepared and preserved foods,Carrot,210.0,1.0,570.0
+497,ID00526,6-Jul,West,Norwalk,Prepared and preserved foods,Carrot,252.0,1.0,428.0
+498,ID00232,1-May,South,Pembroke Pines,Bread and bakery products,Carrot,206.0,1.0,392.0
+499,ID00460,28-Sep,West,Rio Rancho,Cookies,Oatmeal Raisin,101.0,2.0,253.0
+500,ID07439,22-May,Midwest,St. Louis,Bars,Bran,90.0,3.0,451.0
+501,ID07492,3-Feb,West,Mesa,Snacks,Potato Chips,64.0,3.0,125.0
+502,ID00069,2-Aug,South,Port St. Lucie,Bars,Bran,167.0,3.0,530.0
+503,ID00479,25-Sep,West,Goodyear,Bread and bakery products,Carrot,49.0,2.0,47.0
+504,ID00060,21-Jun,West,Carlsbad,Snacks,Potato Chips,106.0,3.0,481.0
+505,ID00218,7-Sep,West,Scottsdale,Snacks,Pretzels,29.0,3.0,140.0
+506,ID00111,18-Feb,Northeast,Springfield,Snacks,Potato Chips,297.0,3.0,621.0
+507,ID00132,28-May,Northeast,Cambridge,Cookies,Oatmeal Raisin,205.0,2.0,577.0
+508,ID07415,31-Oct,Midwest,Minneapolis,Crackers,Whole Wheat,273.0,3.0,627.0
+509,ID07585,22-May,South,Newport News,Cookies,Chocolate Chip,286.0,3.0,775.0
+510,ID00038,31-Oct,West,Lancaster,Snacks,Potato Chips,53.0,1.0,237.0
+511,ID00443,31-Jan,South,Davie,Bread and bakery products,Carrot,122.0,1.0,130.0
+512,ID07587,22-Jan,South,Knoxville,Bars,Bran,163.0,1.0,348.0
+513,ID07405,7-Sep,South,Chesapeake,Crackers,Whole Wheat,160.0,2.0,231.0
+514,ID00396,18-Jun,Midwest,South Bend,Bars,Banana,238.0,3.0,475.0
+515,ID00008,25-Apr,South,Macon,Cookies,Oatmeal Raisin,283.0,1.0,657.0
+516,ID07387,24-Jul,West,Seattle,Cookies,Chocolate Chip,82.0,3.0,299.0
+517,ID00027,12-Nov,South,Chesapeake,Cookies,Chocolate Chip,72.0,2.0,48.0
+518,ID00149,13-Jan,West,Sparks,Bread and bakery products,Carrot,245.0,1.0,682.0
+519,ID00255,13-May,Northeast,Cambridge,Bars,Banana,144.0,2.0,404.0
+520,ID07420,10-Feb,South,Dallas,Crackers,Whole Wheat,207.0,2.0,301.0
+521,ID07377,23-Jan,East,New York,Bars,Carrot,135.0,2.0,518.0
+522,ID07490,24-Jun,South,Little Rock,Cookies,Chocolate Chip,223.0,2.0,547.0
+523,ID00310,1-Feb,South,Palm Bay,Bars,Banana,35.0,2.0,57.0
+524,ID00062,25-Apr,South,Baton Rouge,Snacks,Pretzels,69.0,1.0,159.0
+525,ID07586,3-Jun,Northeast,Jersey City,Cookies,Oatmeal Raisin,242.0,2.0,361.0
+526,ID07359,26-Aug,West,Boston,Bars,Carrot,141.0,3.0,559.0
+527,ID00359,2-Mar,Northeast,New Haven,Bread and bakery products,Carrot,154.0,1.0,201.0
+528,ID07586,14-Aug,West,Huntington Beach,Bars,Carrot,224.0,2.0,446.0
+529,ID00432,7-Oct,West,Lakewood,Bars,Banana,48.0,1.0,148.0
+530,ID07490,28-Sep,South,Memphis,Cookies,Chocolate Chip,80.0,3.0,379.0
+531,ID00464,17-Mar,Northeast,Edison,Prepared and preserved foods,Carrot,153.0,2.0,467.0
+532,ID07531,13-May,West,Modesto,Bars,Bran,227.0,2.0,659.0
+533,ID00339,7-Oct,Northeast,Elizabeth,Bars,Banana,89.0,2.0,169.0
+534,ID00049,3-Jun,West,Colorado Springs,Bars,Banana,191.0,2.0,301.0
+535,ID00016,24-Dec,Midwest,Cleveland,Bars,Bran,100.0,2.0,506.0
+536,ID00404,6-Dec,South,Gainesville,Prepared and preserved foods,Carrot,48.0,1.0,52.0
+537,ID07452,12-Nov,Midwest,Milwaukee,Cookies,Oatmeal Raisin,117.0,2.0,463.0
+538,ID07399,13-Sep,South,Fort Worth,Cookies,Chocolate Chip,116.0,2.0,396.0
+539,ID00234,19-Apr,West,Pasadena,Prepared and preserved foods,Carrot,99.0,1.0,278.0
+540,ID07371,17-Aug,South,Jacksonville,Bars,Carrot,262.0,2.0,692.0
+541,ID07382,29-Jan,South,Austin,Crackers,Whole Wheat,215.0,2.0,206.0
+542,ID00434,21-Feb,West,Daly City,Bars,Banana,95.0,3.0,557.0
+543,ID00494,18-Feb,West,Hesperia,Bars,Banana,107.0,1.0,143.0
+544,ID00116,13-Oct,South,Savannah,Cookies,Oatmeal Raisin,139.0,2.0,359.0
+545,ID00320,5-Jan,South,Midland,Snacks,Pretzels,116.0,2.0,228.0
+546,ID00147,13-Feb,West,Escondido,Bars,Banana,299.0,1.0,801.0
+547,ID00292,12-Jul,West,Murrieta,Snacks,Pretzels,175.0,2.0,609.0
+548,ID00489,1-Apr,Midwest,Lee's Summit,Bars,Banana,305.0,1.0,777.0
+549,ID00426,18-Nov,West,Santa Clara,Cookies,Oatmeal Raisin,202.0,2.0,203.0
+550,ID07546,7-May,South,Birmingham,Bars,Bran,299.0,1.0,640.0
+551,ID07503,22-May,West,Chandler,Crackers,Whole Wheat,56.0,3.0,166.0
+552,ID00034,10-Sep,Midwest,Springfield,Cookies,Oatmeal Raisin,296.0,2.0,800.0
+553,ID00285,6-Feb,West,Berkeley,Snacks,Pretzels,276.0,1.0,474.0
+554,ID00094,15-Feb,South,Carrollton,Snacks,Pretzels,213.0,2.0,628.0
+555,ID00011,12-Dec,South,Fayetteville,Crackers,Whole Wheat,90.0,2.0,188.0
+556,ID07577,12-Jun,Midwest,Springfield,Cookies,Chocolate Chip,79.0,3.0,413.0
+557,ID07366,6-Dec,South,Austin,Bars,Carrot,77.0,3.0,82.0
+558,ID00287,15-Dec,South,Lakeland,Cookies,Oatmeal Raisin,74.0,2.0,124.0
+559,ID00382,23-Aug,South,Lafayette,Bread and bakery products,Carrot,39.0,3.0,428.0
+560,ID00080,27-Dec,South,Jackson,Cookies,Chocolate Chip,153.0,1.0,318.0
+561,ID00216,12-Feb,West,Kent,Beverages,Carrot,227.0,1.0,480.0
+562,ID00206,3-Feb,West,Tempe,Bars,Banana,129.0,1.0,497.0
+563,ID00080,15-Jul,South,Savannah,Bars,Banana,281.0,2.0,643.0
+564,ID00240,10-Oct,Midwest,Topeka,Snacks,Pretzels,252.0,1.0,630.0
+565,ID00156,2-Jan,West,Salinas,Cookies,Oatmeal Raisin,194.0,2.0,637.0
+566,ID00079,19-Feb,Northeast,Paterson,Crackers,Whole Wheat,109.0,3.0,614.0
+567,ID00485,31-Oct,West,Thornton,Prepared and preserved foods,Carrot,297.0,3.0,745.0
+568,ID00519,26-Mar,Northeast,Quincy,Beverages,Carrot,99.0,1.0,670.0
+569,ID00271,3-Jul,South,Fayetteville,Snacks,Potato Chips,46.0,2.0,75.0
+570,ID00489,13-Apr,West,Hesperia,Beverages,Carrot,241.0,1.0,528.0
+571,ID07411,24-Dec,West,Portland,Bars,Carrot,61.0,3.0,455.0
+572,ID00286,26-Jan,Northeast,Bridgeport,Snacks,Potato Chips,48.0,1.0,143.0
+573,ID00503,12-Jun,Northeast,Quincy,Bread and bakery products,Carrot,241.0,1.0,408.0
+574,ID07512,15-Nov,South,Brownsville,Cookies,Arrowroot,107.0,2.0,227.0
+575,ID00369,16-Feb,South,Waco,Snacks,Potato Chips,215.0,3.0,515.0
+576,ID00374,7-Feb,South,North Charleston,Bars,Bran,104.0,3.0,477.0
+577,ID00356,27-Jun,South,Lakeland,Cookies,Arrowroot,21.0,3.0,37.0
+578,ID07550,20-Mar,South,Pembroke Pines,Cookies,Oatmeal Raisin,59.0,2.0,351.0
+579,ID00398,4-Sep,Northeast,Waterbury,Bread and bakery products,Carrot,25.0,2.0,83.0
+580,ID00362,4-Jan,Midwest,Elgin,Cookies,Oatmeal Raisin,225.0,1.0,207.0
+581,ID07411,24-Dec,South,Charlotte,Bars,Carrot,150.0,2.0,494.0
+582,ID07457,15-Dec,Midwest,Omaha,Bars,Carrot,274.0,2.0,627.0
+583,ID00503,24-Feb,West,Longmont,Prepared and preserved foods,Carrot,63.0,2.0,113.0
+584,ID00126,31-Jan,South,McAllen,Prepared and preserved foods,Carrot,119.0,1.0,322.0
+585,ID00058,15-Jun,South,Shreveport,Snacks,Potato Chips,139.0,2.0,649.0
+586,ID00356,9-Jul,South,South Fulton,Prepared and preserved foods,Carrot,252.0,2.0,732.0
+587,ID00292,27-Nov,South,Palm Bay,Snacks,Potato Chips,98.0,2.0,161.0
+588,ID00316,18-Feb,West,Hayward,Beverages,Carrot,257.0,1.0,722.0
+589,ID00304,14-Mar,South,Tyler,Cookies,Oatmeal Raisin,177.0,2.0,608.0
+590,ID00085,2-Mar,South,Denton,Cookies,Oatmeal Raisin,146.0,2.0,169.0
+591,ID00461,25-Sep,West,Gresham,Bars,Bran,108.0,2.0,369.0
+592,ID07552,19-Oct,Midwest,Minneapolis,Cookies,Arrowroot,28.0,2.0,176.0
+593,ID00427,17-Mar,West,Rialto,Beverages,Carrot,265.0,2.0,650.0
+594,ID00517,31-Jan,West,San Mateo,Prepared and preserved foods,Carrot,183.0,2.0,427.0
+595,ID00081,19-Apr,West,Rancho Cucamonga,Bars,Bran,275.0,1.0,591.0
+596,ID00357,25-Apr,West,Arvada,Bars,Banana,243.0,3.0,803.0
+597,ID00432,15-Feb,Northeast,Manchester,Beverages,Carrot,96.0,1.0,214.0
+598,ID00054,16-Feb,South,Newport News,Crackers,Whole Wheat,247.0,2.0,652.0
+599,ID07401,18-Dec,South,Louisville,Crackers,Whole Wheat,301.0,2.0,725.0
+600,ID00154,3-Feb,West,Thornton,Bread and bakery products,Carrot,176.0,2.0,680.0
+601,ID00205,30-Nov,Northeast,Lowell,Cookies,Oatmeal Raisin,56.0,3.0,259.0
+602,ID00165,18-Feb,Midwest,Aurora,Beverages,Carrot,117.0,2.0,186.0
+603,ID00285,24-Dec,South,Murfreesboro,Bars,Banana,86.0,2.0,279.0
+604,ID00123,6-Jun,South,Grand Prairie,Bread and bakery products,Carrot,131.0,2.0,411.0
+605,ID00485,20-Mar,South,South Fulton,Prepared and preserved foods,Carrot,260.0,2.0,718.0
+606,ID00345,16-May,South,Palm Bay,Snacks,Pretzels,300.0,1.0,800.0
+607,ID00495,9-Nov,West,Buckeye,Prepared and preserved foods,Carrot,209.0,2.0,291.0
+608,ID00296,7-Feb,West,Eugene,Cookies,Oatmeal Raisin,41.0,3.0,165.0
+609,ID00309,22-Oct,South,Cape Coral,Prepared and preserved foods,Carrot,288.0,2.0,812.0
+610,ID00122,25-Sep,West,Roseville,Snacks,Potato Chips,293.0,1.0,696.0
+611,ID07390,4-Apr,Midwest,Columbus,Snacks,Potato Chips,261.0,2.0,514.0
+612,ID00285,23-Aug,West,Elk Grove,Bars,Bran,171.0,2.0,315.0
+613,ID07495,19-Oct,South,New Orleans,Snacks,Pretzels,267.0,1.0,496.0
+614,ID00362,15-Feb,West,Arvada,Beverages,Carrot,166.0,1.0,487.0
+615,ID07467,6-Dec,South,Baltimore,Cookies,Chocolate Chip,168.0,1.0,462.0
+616,ID00146,4-Sep,Midwest,Des Moines,Cookies,Arrowroot,95.0,3.0,445.0
+617,ID00146,7-Sep,West,Tempe,Bars,Bran,38.0,2.0,102.0
+618,ID00259,19-Oct,West,Berkeley,Cookies,Oatmeal Raisin,279.0,1.0,715.0
+619,ID07516,25-Feb,Northeast,Boston,Crackers,Whole Wheat,77.0,3.0,484.0
+620,ID00125,5-Mar,West,Billings,Bars,Bran,84.0,2.0,467.0
+621,ID07435,27-Jul,West,Tucson,Bars,Carrot,156.0,3.0,705.0
+622,ID00162,15-Jun,West,Clovis,Cookies,Oatmeal Raisin,233.0,1.0,368.0
+623,ID00355,27-Feb,South,High Point,Snacks,Pretzels,193.0,1.0,446.0
+624,ID00410,15-Dec,West,Spokane Valley,Cookies,Oatmeal Raisin,83.0,2.0,80.0
+625,ID00469,4-Jan,West,Hesperia,Beverages,Carrot,245.0,2.0,757.0
+626,ID07539,23-Aug,West,Long Beach,Bars,Bran,149.0,2.0,598.0
+627,ID07438,4-Feb,West,Seattle,Cookies,Chocolate Chip,173.0,2.0,595.0
+628,ID00241,18-Feb,West,Surprise,Snacks,Pretzels,137.0,2.0,521.0
+629,ID07438,26-Jan,South,El Paso,Snacks,Potato Chips,227.0,2.0,554.0
+630,ID00261,10-Apr,West,Richmond,Snacks,Pretzels,182.0,1.0,345.0
+631,ID00106,29-Aug,West,West Valley City,Cookies,Oatmeal Raisin,118.0,2.0,471.0
+632,ID00226,31-Jan,Northeast,Worcester,Prepared and preserved foods,Carrot,284.0,2.0,636.0
+633,ID00456,4-Sep,South,Davie,Snacks,Pretzels,145.0,2.0,679.0
+634,ID00280,17-Aug,Northeast,Allentown,Snacks,Potato Chips,193.0,3.0,695.0
+635,ID00315,28-Jan,South,Athens,Beverages,Carrot,72.0,2.0,464.0
+636,ID00200,1-May,South,Chesapeake,Beverages,Carrot,264.0,2.0,782.0
+637,ID07521,28-Oct,West,Santa Ana,Cookies,Oatmeal Raisin,137.0,2.0,355.0
+638,ID00159,24-Jul,West,Corona,Snacks,Pretzels,183.0,2.0,719.0
+639,ID00288,4-Jan,South,Clearwater,Bars,Banana,164.0,1.0,475.0
+640,ID00404,26-Aug,West,Pueblo,Bars,Banana,236.0,3.0,718.0
+641,ID00310,6-Nov,Northeast,Hartford,Cookies,Oatmeal Raisin,194.0,3.0,739.0
+642,ID00226,25-Apr,South,Shreveport,Snacks,Potato Chips,51.0,3.0,139.0
+643,ID07532,28-Apr,South,Lubbock,Snacks,Pretzels,211.0,3.0,681.0
+644,ID00068,19-Apr,South,Jackson,Cookies,Oatmeal Raisin,276.0,3.0,583.0
+645,ID00501,9-Feb,West,Daly City,Beverages,Carrot,136.0,2.0,621.0
+646,ID00215,22-Jan,Northeast,Edison,Bars,Banana,51.0,1.0,86.0
+647,ID00139,29-Mar,South,College Station,Cookies,Arrowroot,78.0,2.0,76.0
+648,ID07471,3-Nov,West,Stockton,Crackers,Whole Wheat,59.0,1.0,102.0
+649,ID07517,13-Oct,West,Tempe,Crackers,Whole Wheat,274.0,2.0,761.0
+650,ID00459,5-Aug,West,Carlsbad,Bars,Banana,102.0,3.0,386.0
+651,ID00294,13-Sep,West,Lancaster,Bars,Bran,205.0,1.0,260.0
+652,ID00469,27-Nov,South,Midland,Prepared and preserved foods,Carrot,288.0,2.0,727.0
+653,ID00210,9-Nov,West,Visalia,Bars,Bran,147.0,2.0,381.0
+654,ID07452,29-Jan,South,Houston,Cookies,Chocolate Chip,264.0,2.0,577.0
+655,ID07455,14-Jan,South,Baltimore,Cookies,Arrowroot,123.0,2.0,512.0
+656,ID00249,22-Jan,Midwest,Topeka,Snacks,Pretzels,282.0,2.0,756.0
+657,ID00248,4-Jan,West,West Valley City,Bars,Banana,134.0,3.0,573.0
+658,ID07355,29-Aug,Northeast,New York,Bars,Carrot,186.0,2.0,488.0
+659,ID00266,10-May,Midwest,Dayton,Cookies,Oatmeal Raisin,77.0,1.0,59.0
+660,ID00449,16-May,Midwest,Dearborn,Prepared and preserved foods,Carrot,273.0,2.0,568.0
+661,ID00423,16-Jan,West,Renton,Beverages,Carrot,251.0,1.0,715.0
+662,ID07449,20-Jan,West,Bakersfield,Cookies,Arrowroot,156.0,3.0,429.0
+663,ID00023,16-Sep,South,Fort Lauderdale,Bars,Bran,261.0,2.0,771.0
+664,ID07516,10-Sep,South,San Antonio,Bars,Bran,264.0,2.0,799.0
+665,ID00472,19-May,West,Menifee,Bread and bakery products,Carrot,139.0,1.0,401.0
+666,ID00454,27-Jun,West,Hillsboro,Prepared and preserved foods,Carrot,293.0,2.0,685.0
+667,ID00389,14-Aug,South,Tallahassee,Beverages,Carrot,134.0,2.0,627.0
+668,ID07399,20-Aug,Midwest,Chicago,Cookies,Arrowroot,236.0,2.0,683.0
+669,ID00151,22-Oct,West,Pomona,Snacks,Potato Chips,283.0,2.0,662.0
+670,ID00452,1-May,West,Inglewood,Beverages,Carrot,274.0,2.0,806.0
+671,ID00525,26-Aug,Northeast,Woodbridge,Prepared and preserved foods,Carrot,170.0,2.0,531.0
+672,ID07398,17-Aug,South,Dallas,Snacks,Potato Chips,76.0,3.0,240.0
+673,ID00503,15-Jun,West,Bend,Snacks,Pretzels,59.0,1.0,91.0
+674,ID00437,11-Aug,Midwest,Green Bay,Snacks,Pretzels,142.0,1.0,122.0
+675,ID00362,21-Nov,West,Billings,Cookies,Oatmeal Raisin,117.0,2.0,424.0
+676,ID00086,25-May,Midwest,Naperville,Snacks,Potato Chips,46.0,2.0,53.0
+677,ID00039,3-Nov,Northeast,Jersey City,Bread and bakery products,Carrot,179.0,2.0,699.0
+678,ID07484,14-Aug,West,Tucson,Cookies,Chocolate Chip,270.0,3.0,807.0
+679,ID00421,12-Nov,West,Ventura,Bread and bakery products,Carrot,188.0,2.0,428.0
+680,ID00230,13-Sep,South,Cary,Snacks,Pretzels,152.0,1.0,218.0
+681,ID00371,16-Feb,South,Baton Rouge,Cookies,Oatmeal Raisin,260.0,2.0,628.0
+682,ID07544,6-Dec,West,Anchorage,Cookies,Arrowroot,121.0,3.0,159.0
+683,ID00288,26-Jan,Northeast,New Haven,Cookies,Arrowroot,172.0,2.0,225.0
+684,ID00040,12-Feb,South,Grand Prairie,Bread and bakery products,Carrot,72.0,3.0,191.0
+685,ID07588,7-Sep,West,Irvine,Bars,Bran,264.0,2.0,413.0
+686,ID07521,10-Oct,South,Virginia Beach,Snacks,Potato Chips,239.0,3.0,669.0
+687,ID00313,20-Mar,South,Miami Gardens,Bars,Bran,206.0,2.0,520.0
+688,ID07411,22-Feb,South,Fort Worth,Bars,Carrot,47.0,3.0,204.0
+689,ID07592,13-Apr,South,Tulsa,Bread and bakery products,Carrot,167.0,2.0,439.0
+690,ID00132,17-Aug,South,Knoxville,Cookies,Chocolate Chip,168.0,3.0,645.0
+691,ID00525,9-Nov,West,Vacaville,Prepared and preserved foods,Carrot,236.0,2.0,683.0
+692,ID07510,11-Mar,West,Bakersfield,Cookies,Oatmeal Raisin,201.0,2.0,654.0
+693,ID00421,1-Sep,South,Clearwater,Bars,Bran,250.0,2.0,569.0
+694,ID00210,1-Apr,West,Gresham,Snacks,Pretzels,29.0,3.0,305.0
+695,ID00068,3-Jun,Northeast,Yonkers,Bars,Banana,30.0,1.0,43.0
+696,ID00270,25-May,Midwest,Evansville,Snacks,Pretzels,173.0,3.0,450.0
+697,ID07388,24-Nov,South,Fort Worth,Bars,Carrot,51.0,2.0,126.0
+698,ID07576,7-Feb,South,Durham,Crackers,Whole Wheat,232.0,2.0,266.0
+699,ID07593,24-Jun,South,St. Petersburg,Snacks,Pretzels,283.0,1.0,774.0
+700,ID00258,18-Nov,South,Greensboro,Bars,Banana,109.0,2.0,392.0
+701,ID00392,4-Sep,West,Temecula,Cookies,Oatmeal Raisin,275.0,2.0,707.0
+702,ID07554,27-Jul,South,Greensboro,Bars,Bran,115.0,1.0,201.0
+703,ID00278,28-Apr,West,Simi Valley,Cookies,Oatmeal Raisin,116.0,2.0,351.0
+704,ID07358,11-Aug,East,New York,Crackers,Whole Wheat,210.0,3.0,377.0
+705,ID00300,9-Jun,Midwest,Olathe,Snacks,Pretzels,300.0,2.0,792.0
+706,ID07481,12-Nov,South,Fort Worth,Snacks,Potato Chips,251.0,2.0,778.0
+707,ID07461,18-Jun,South,Chesapeake,Crackers,Whole Wheat,258.0,3.0,669.0
+708,ID07463,3-Jul,West,Las Vegas,Bars,Banana,130.0,3.0,721.0
+709,ID00090,16-Jan,Midwest,Grand Rapids,Bars,Banana,26.0,2.0,101.0
+710,ID00524,19-Apr,West,Daly City,Beverages,Carrot,221.0,1.0,217.0
+711,ID00412,22-Oct,West,Inglewood,Snacks,Pretzels,258.0,1.0,669.0
+712,ID00441,13-Apr,Midwest,Green Bay,Bread and bakery products,Carrot,267.0,2.0,695.0
+713,ID00400,21-Dec,South,Lafayette,Bread and bakery products,Carrot,26.0,2.0,255.0
+714,ID07546,17-Aug,Midwest,Saint Paul,Cookies,Oatmeal Raisin,115.0,2.0,378.0
+715,ID00072,7-Oct,South,Amarillo,Bars,Banana,112.0,2.0,186.0
+716,ID07455,8-Jan,South,Nashville,Bars,Carrot,201.0,1.0,276.0
+717,ID00099,7-Oct,South,Tallahassee,Cookies,Chocolate Chip,135.0,2.0,233.0
+718,ID07421,12-Jun,West,Scottsdale,Cookies,Arrowroot,45.0,3.0,78.0
+719,ID00013,12-Feb,Midwest,Ann Arbor,Crackers,Whole Wheat,133.0,2.0,119.0
+720,ID07372,12-Jun,South,Nashville,Bars,Carrot,246.0,2.0,530.0
+721,ID00213,16-Sep,South,Wilmington,Cookies,Chocolate Chip,287.0,1.0,615.0
+722,ID00099,16-Apr,West,Palmdale,Snacks,Potato Chips,224.0,3.0,748.0
+723,ID00442,10-Oct,West,Renton,Bread and bakery products,Carrot,146.0,2.0,441.0
+724,ID00027,24-Jul,West,Huntington Beach,Bars,Bran,235.0,2.0,444.0
+725,ID00340,14-Mar,South,High Point,Bars,Banana,78.0,1.0,282.0
+726,ID00483,16-Sep,West,Burbank,Prepared and preserved foods,Carrot,97.0,2.0,338.0
+727,ID00514,8-Mar,West,San Mateo,Beverages,Carrot,68.0,3.0,395.0
+728,ID07590,14-Aug,Midwest,Omaha,Bars,Banana,223.0,1.0,624.0
+729,ID00055,18-Jul,South,Macon,Cookies,Oatmeal Raisin,217.0,1.0,525.0
+730,ID00037,27-Feb,South,Birmingham,Bars,Banana,208.0,3.0,736.0
+731,ID07378,30-Dec,Midwest,Indianapolis,Snacks,Potato Chips,79.0,3.0,85.0
+732,ID00521,23-Aug,West,Longmont,Beverages,Carrot,237.0,1.0,676.0
+733,ID00426,9-Feb,Midwest,Fishers,Bars,Banana,31.0,3.0,330.0
+734,ID00109,31-May,Northeast,Elizabeth,Crackers,Whole Wheat,126.0,3.0,508.0
+735,ID00154,17-Mar,West,Visalia,Prepared and preserved foods,Carrot,164.0,1.0,79.0
+736,ID07503,13-Oct,South,Virginia Beach,Crackers,Whole Wheat,39.0,2.0,207.0
+737,ID00098,9-Dec,West,Huntington Beach,Bars,Bran,186.0,2.0,565.0
+738,ID07380,17-Mar,Midwest,Saint Paul,Crackers,Whole Wheat,45.0,3.0,270.0
+739,ID00003,29-Jan,South,Orlando,Crackers,Whole Wheat,71.0,2.0,456.0
+740,ID07521,7-Apr,South,Tampa,Cookies,Arrowroot,108.0,2.0,163.0
+741,ID00397,7-Feb,Northeast,Hartford,Cookies,Oatmeal Raisin,236.0,1.0,167.0
+742,ID00162,27-Dec,Midwest,Fort Wayne,Cookies,Arrowroot,225.0,3.0,377.0
+743,ID07355,3-Jun,West,Boston,Crackers,Whole Wheat,143.0,3.0,502.0
+744,ID07578,29-Jan,South,Cape Coral,Bars,Carrot,25.0,1.0,71.0
+745,ID00022,13-Jan,South,Chattanooga,Bars,Banana,278.0,2.0,664.0
+746,ID00386,21-Jul,Northeast,Hartford,Beverages,Carrot,191.0,1.0,332.0
+747,ID07362,18-Nov,South,Jacksonville,Bars,Carrot,30.0,2.0,35.0
+748,ID00385,19-Jan,Midwest,Davenport,Snacks,Pretzels,167.0,1.0,223.0
+749,ID00050,22-May,South,Tallahassee,Bread and bakery products,Carrot,250.0,1.0,575.0
+750,ID00278,8-Mar,West,Greeley,Cookies,Oatmeal Raisin,208.0,3.0,479.0
+751,ID07379,18-Feb,South,Baltimore,Bars,Carrot,225.0,1.0,199.0
+752,ID00158,30-Jul,West,Torrance,Prepared and preserved foods,Carrot,199.0,3.0,719.0
+753,ID00302,6-Feb,South,Broken Arrow,Prepared and preserved foods,Carrot,89.0,2.0,321.0
+754,ID00079,27-Dec,West,Rancho Cucamonga,Snacks,Pretzels,231.0,3.0,579.0
+755,ID00468,31-Jan,West,Rialto,Beverages,Carrot,153.0,2.0,424.0
+756,ID07442,6-Dec,West,Denver,Bars,Carrot,67.0,2.0,282.0
+757,ID00450,6-Jun,West,Spokane Valley,Bread and bakery products,Carrot,190.0,3.0,646.0
+758,ID00140,13-Apr,West,Santa Clara,Snacks,Potato Chips,189.0,1.0,516.0
+759,ID00236,6-Feb,South,Carrollton,Bars,Bran,229.0,2.0,510.0
+760,ID00350,19-Sep,South,Sandy Springs,Cookies,Chocolate Chip,151.0,3.0,714.0
+761,ID00403,16-Feb,West,Westminster,Bars,Banana,34.0,3.0,38.0
+762,ID00474,22-Jan,Northeast,Woodbridge,Beverages,Carrot,275.0,2.0,703.0
+763,ID07411,24-Nov,West,San Francisco,Bars,Carrot,70.0,2.0,67.0
+764,ID07541,1-Oct,West,Reno,Cookies,Oatmeal Raisin,193.0,3.0,763.0
+765,ID00136,16-Jan,West,Fullerton,Bread and bakery products,Carrot,256.0,1.0,267.0
+766,ID00451,27-Jul,South,Abilene,Cookies,Oatmeal Raisin,273.0,2.0,717.0
+767,ID00237,18-Nov,South,McAllen,Bars,Bran,112.0,3.0,113.0
+768,ID07360,13-Apr,South,Houston,Cookies,Chocolate Chip,59.0,3.0,106.0
+769,ID07442,13-Apr,Northeast,Pittsburgh,Cookies,Oatmeal Raisin,113.0,1.0,149.0
+770,ID00348,12-Jun,West,Westminster,Bread and bakery products,Carrot,33.0,2.0,50.0
+771,ID00446,29-Aug,West,Bend,Cookies,Arrowroot,209.0,3.0,732.0
+772,ID00059,13-Apr,Midwest,Toledo,Bars,Bran,285.0,2.0,717.0
+773,ID00074,3-Jun,South,Tallahassee,Snacks,Pretzels,88.0,2.0,103.0
+774,ID00137,2-Mar,South,Alexandria,Cookies,Arrowroot,182.0,2.0,374.0
+775,ID07415,22-Feb,South,Houston,Cookies,Arrowroot,98.0,3.0,343.0
+776,ID00239,1-Oct,South,Knoxville,Snacks,Pretzels,33.0,2.0,48.0
+777,ID07553,1-May,Midwest,Toledo,Cookies,Oatmeal Raisin,278.0,3.0,774.0
+778,ID07507,4-Oct,South,Savannah,Cookies,Arrowroot,60.0,1.0,90.0
+779,ID00368,25-May,West,Ventura,Bars,Banana,227.0,2.0,180.0
+780,ID00364,3-Jul,Midwest,Elgin,Bars,Banana,234.0,1.0,512.0
+781,ID00051,11-Mar,Midwest,Olathe,Cookies,Chocolate Chip,213.0,2.0,620.0
+782,ID00425,23-Mar,West,El Cajon,Bars,Banana,153.0,1.0,293.0
+783,ID00474,12-Jul,West,Burbank,Prepared and preserved foods,Carrot,26.0,2.0,39.0
+784,ID07583,16-Jan,West,Tempe,Bars,Bran,273.0,2.0,639.0
+785,ID00515,1-Sep,West,Spokane Valley,Beverages,Carrot,237.0,2.0,741.0
+786,ID00478,19-May,West,Centennial,Prepared and preserved foods,Carrot,293.0,1.0,654.0
+787,ID00103,24-Jul,South,Murfreesboro,Crackers,Whole Wheat,49.0,1.0,91.0
+788,ID00489,1-Sep,Midwest,Carmel,Snacks,Potato Chips,105.0,2.0,375.0
+789,ID07398,6-Jul,South,Dallas,Cookies,Arrowroot,42.0,3.0,136.0
+790,ID00355,7-May,South,Tyler,Snacks,Pretzels,151.0,2.0,465.0
+791,ID00493,18-Feb,West,Daly City,Prepared and preserved foods,Carrot,230.0,2.0,703.0
+792,ID00465,4-Sep,South,Sugar Land,Prepared and preserved foods,Carrot,146.0,2.0,411.0
+793,ID00137,2-Mar,West,Eugene,Bars,Bran,110.0,2.0,440.0
+794,ID00205,16-Apr,South,Clearwater,Snacks,Potato Chips,78.0,2.0,313.0
+795,ID00309,24-Nov,Midwest,Fargo,Snacks,Pretzels,142.0,3.0,511.0
+796,ID07473,4-Feb,Northeast,Buffalo,Bars,Carrot,109.0,3.0,543.0
+797,ID00439,6-Nov,Midwest,Evansville,Bars,Bran,57.0,1.0,77.0
+798,ID00149,24-Nov,Northeast,Elizabeth,Bars,Bran,237.0,1.0,296.0
+799,ID00256,30-Nov,West,Fullerton,Cookies,Arrowroot,88.0,2.0,336.0
+800,ID07416,28-Feb,West,Boston,Cookies,Chocolate Chip,196.0,2.0,477.0
+801,ID07448,13-Sep,Midwest,Saint Paul,Crackers,Whole Wheat,270.0,1.0,598.0
+802,ID00123,8-Mar,South,Round Rock,Bread and bakery products,Carrot,133.0,2.0,475.0
+803,ID07526,18-Feb,West,Huntington Beach,Prepared and preserved foods,Carrot,217.0,1.0,536.0
+804,ID00055,19-Oct,West,Elk Grove,Snacks,Pretzels,271.0,2.0,666.0
+805,ID07511,12-Jul,West,Portland,Bread and bakery products,Carrot,289.0,2.0,810.0
+806,ID07436,12-Nov,West,Henderson,Cookies,Arrowroot,231.0,3.0,430.0
+807,ID00349,4-Sep,West,Sparks,Snacks,Potato Chips,37.0,2.0,93.0
+808,ID07395,24-Jul,West,Bakersfield,Bars,Carrot,35.0,2.0,47.0
+809,ID07427,19-Oct,South,Baltimore,Bars,Bran,85.0,2.0,100.0
+810,ID00322,14-Mar,West,Victorville,Bars,Banana,196.0,1.0,629.0
+811,ID00220,4-Oct,South,Round Rock,Bars,Carrot,103.0,3.0,280.0
+812,ID00462,25-Jan,West,Temecula,Beverages,Carrot,71.0,2.0,139.0
+813,ID07419,20-Mar,West,Thornton,Cookies,Arrowroot,258.0,2.0,526.0
+814,ID00527,31-May,West,Longmont,Prepared and preserved foods,Carrot,249.0,2.0,638.0
+815,ID00500,15-Feb,West,Daly City,Beverages,Carrot,134.0,1.0,270.0
+816,ID07559,15-Dec,South,Fayetteville,Cookies,Oatmeal Raisin,202.0,3.0,681.0
+817,ID00322,1-May,South,Carrollton,Prepared and preserved foods,Carrot,266.0,2.0,725.0
+818,ID00033,28-Oct,West,Tempe,Crackers,Whole Wheat,239.0,3.0,764.0
+819,ID07499,3-Nov,Midwest,Minneapolis,Snacks,Pretzels,226.0,2.0,402.0
+820,ID00493,1-Oct,West,El Cajon,Beverages,Carrot,151.0,2.0,596.0
+821,ID07454,28-Sep,South,Corpus Christi,Crackers,Whole Wheat,151.0,3.0,342.0
+822,ID07436,5-Jan,West,Seattle,Crackers,Whole Wheat,192.0,3.0,672.0
+823,ID00252,21-Feb,West,Clovis,Bread and bakery products,Carrot,173.0,1.0,366.0
+824,ID00418,16-Apr,West,Temecula,Bread and bakery products,Carrot,92.0,1.0,100.0
+825,ID07474,18-Jul,West,Visalia,Bars,Carrot,32.0,3.0,50.0
+826,ID00164,30-Dec,West,Everett,Cookies,Arrowroot,125.0,3.0,224.0
+827,ID07385,12-Nov,West,San Jose,Bars,Carrot,25.0,3.0,104.0
+828,ID07533,30-Jun,South,Knoxville,Cookies,Arrowroot,89.0,3.0,196.0
+829,ID07384,21-Dec,West,Portland,Cookies,Chocolate Chip,305.0,2.0,816.0
+830,ID00035,22-May,West,Spokane,Bars,Banana,276.0,2.0,787.0
+831,ID07589,28-Apr,South,Montgomery,Bars,Bran,114.0,2.0,271.0
+832,ID00088,24-Jul,Northeast,Pittsburgh,Prepared and preserved foods,Carrot,267.0,2.0,613.0
+833,ID00467,1-Oct,West,Burbank,Prepared and preserved foods,Carrot,82.0,2.0,415.0
+834,ID00238,3-Dec,South,Brownsville,Bars,Bran,188.0,3.0,693.0
+835,ID07510,18-Feb,West,Salem,Cookies,Arrowroot,52.0,2.0,213.0
+836,ID00353,16-May,West,Spokane Valley,Cookies,Oatmeal Raisin,173.0,2.0,217.0
+837,ID07549,22-Jan,South,Norfolk,Prepared and preserved foods,Carrot,255.0,2.0,751.0
+838,ID07430,31-May,Midwest,St. Louis,Cookies,Arrowroot,136.0,3.0,522.0
+839,ID07374,5-Aug,Midwest,Indianapolis,Crackers,Whole Wheat,98.0,3.0,217.0
+840,ID00106,20-Aug,Midwest,Rockford,Snacks,Potato Chips,242.0,2.0,549.0
+841,ID07383,29-Aug,West,Albuquerque,Crackers,Whole Wheat,163.0,2.0,221.0
+842,ID00212,31-Oct,Midwest,Aurora,Snacks,Potato Chips,270.0,1.0,487.0
+843,ID00388,7-Jan,West,West Covina,Bars,Banana,76.0,2.0,121.0
+844,ID00012,29-Aug,South,Charleston,Cookies,Arrowroot,90.0,2.0,193.0
+845,ID00292,25-Sep,Midwest,Columbia,Snacks,Potato Chips,107.0,2.0,127.0
+846,ID07423,22-May,South,Baltimore,Cookies,Oatmeal Raisin,259.0,1.0,571.0
+847,ID07467,14-Mar,Midwest,Minneapolis,Cookies,Oatmeal Raisin,191.0,2.0,615.0
+848,ID07378,5-Aug,South,Atlanta,Cookies,Chocolate Chip,224.0,1.0,395.0
+849,ID00330,18-Feb,South,Tyler,Snacks,Pretzels,62.0,1.0,67.0
+850,ID00088,19-Sep,West,Salinas,Snacks,Potato Chips,129.0,2.0,468.0
+851,ID00073,16-Feb,West,Santa Clarita,Cookies,Oatmeal Raisin,247.0,2.0,582.0
+852,ID07531,24-Jun,West,Spokane,Snacks,Pretzels,237.0,2.0,581.0
+853,ID00479,16-Apr,Northeast,New Bedford,Prepared and preserved foods,Carrot,56.0,1.0,35.0
+854,ID00448,2-Aug,West,West Valley City,Beverages,Carrot,207.0,1.0,681.0
+855,ID00319,6-Feb,Midwest,Warren,Snacks,Pretzels,38.0,2.0,91.0
+856,ID07520,6-Feb,West,Oxnard,Bars,Banana,47.0,2.0,91.0
+857,ID00441,11-Mar,Midwest,Green Bay,Prepared and preserved foods,Carrot,276.0,1.0,778.0
+858,ID00080,25-Oct,South,Amarillo,Snacks,Pretzels,49.0,2.0,150.0
+859,ID00152,30-Jul,Midwest,Sterling Heights,Cookies,Chocolate Chip,50.0,2.0,104.0
+860,ID00271,22-Feb,South,Tallahassee,Snacks,Pretzels,72.0,3.0,189.0
+861,ID00090,22-Jan,South,Athens,Prepared and preserved foods,Carrot,156.0,3.0,312.0
+862,ID00457,30-Nov,South,Richardson,Bread and bakery products,Carrot,136.0,2.0,441.0
+863,ID00359,28-Oct,South,Athens,Bread and bakery products,Carrot,66.0,3.0,520.0
+864,ID00405,1-Oct,West,Santa Maria,Snacks,Pretzels,29.0,2.0,45.0
+865,ID07585,13-May,South,Lexington,Bars,Bran,193.0,1.0,512.0
+866,ID07442,28-Oct,South,El Paso,Crackers,Whole Wheat,163.0,3.0,272.0
+867,ID07383,16-Sep,West,San Francisco,Bars,Carrot,142.0,1.0,187.0
+868,ID00301,3-Nov,South,Mesquite,Bars,Banana,140.0,1.0,353.0
+869,ID07588,2-Jan,South,Virginia Beach,Cookies,Arrowroot,116.0,2.0,467.0
+870,ID00351,20-Aug,South,League City,Beverages,Carrot,286.0,2.0,778.0
+871,ID07552,28-Oct,South,Greensboro,Cookies,Chocolate Chip,187.0,3.0,140.0
+872,ID00046,4-May,Midwest,Sioux Falls,Bars,Bran,157.0,1.0,324.0
+873,ID00506,12-Feb,South,Wichita Falls,Prepared and preserved foods,Carrot,233.0,1.0,547.0
+874,ID07563,24-Jun,South,Louisville,Snacks,Potato Chips,50.0,3.0,114.0
+875,ID00028,4-Apr,South,Durham,Snacks,Pretzels,99.0,2.0,360.0
+876,ID00039,15-Nov,South,Charleston,Bars,Bran,296.0,1.0,552.0
+877,ID07581,23-Mar,South,Memphis,Bars,Banana,221.0,3.0,695.0
+878,ID07475,19-Feb,West,San Francisco,Cookies,Chocolate Chip,32.0,3.0,166.0
+879,ID00211,20-Mar,Northeast,Manchester,Bars,Bran,64.0,2.0,639.0
+880,ID00094,20-Mar,West,Arvada,Crackers,Whole Wheat,44.0,2.0,160.0
+881,ID00009,19-Jan,Northeast,Hartford,Cookies,Oatmeal Raisin,257.0,2.0,725.0
+882,ID00343,14-Aug,Northeast,Elizabeth,Cookies,Oatmeal Raisin,121.0,3.0,580.0
+883,ID00275,30-Dec,South,Carrollton,Snacks,Pretzels,223.0,2.0,449.0
+884,ID00458,19-Jan,Midwest,Carmel,Prepared and preserved foods,Carrot,280.0,1.0,312.0
+885,ID00355,12-Feb,South,Palm Bay,Prepared and preserved foods,Carrot,232.0,1.0,736.0
+886,ID00320,26-Aug,Midwest,Evansville,Bars,Banana,291.0,2.0,764.0
+887,ID00416,12-Jun,West,Jurupa Valley,Snacks,Pretzels,188.0,1.0,354.0
+888,ID07588,27-Dec,Midwest,Detroit,Snacks,Pretzels,65.0,1.0,468.0
+889,ID00267,13-Jan,Midwest,Fargo,Bars,Banana,172.0,2.0,571.0
+890,ID00103,1-Jan,South,McAllen,Cookies,Arrowroot,31.0,2.0,123.0
+891,ID07499,2-Aug,Midwest,Grand Rapids,Cookies,Chocolate Chip,258.0,2.0,710.0
+892,ID00095,21-Dec,West,Lakewood,Crackers,Whole Wheat,185.0,2.0,145.0
+893,ID00267,25-Feb,South,Shreveport,Crackers,Whole Wheat,81.0,2.0,278.0
+894,ID00394,9-Jun,Midwest,Columbia,Bread and bakery products,Carrot,176.0,2.0,581.0
+895,ID00076,25-Feb,West,Tempe,Crackers,Whole Wheat,76.0,2.0,331.0
+896,ID00316,22-Oct,West,Fairfield,Cookies,Chocolate Chip,42.0,2.0,163.0
+897,ID00509,8-Mar,South,Sugar Land,Beverages,Carrot,190.0,1.0,310.0
+898,ID00051,25-Feb,Midwest,Cleveland,Bars,Carrot,159.0,3.0,408.0
+899,ID00524,1-Jan,Midwest,Carmel,Beverages,Carrot,281.0,2.0,581.0
+900,ID07381,9-Jul,South,El Paso,Snacks,Potato Chips,195.0,2.0,275.0
+901,ID07557,19-Sep,Midwest,Minneapolis,Cookies,Chocolate Chip,153.0,2.0,541.0
+902,ID07359,27-Feb,East,New York,Crackers,Whole Wheat,217.0,2.0,524.0
+903,ID00023,12-Jun,South,Savannah,Cookies,Arrowroot,144.0,3.0,274.0
+904,ID00362,9-Feb,South,Broken Arrow,Beverages,Carrot,223.0,1.0,600.0
+905,ID00228,4-Apr,West,Corona,Prepared and preserved foods,Carrot,195.0,1.0,489.0
+906,ID00380,5-Aug,Northeast,Manchester,Bread and bakery products,Carrot,236.0,2.0,715.0
+907,ID00443,31-Jan,West,El Monte,Bread and bakery products,Carrot,66.0,1.0,423.0
+908,ID00275,21-Feb,West,Eugene,Prepared and preserved foods,Carrot,290.0,2.0,575.0
+909,ID07510,12-Jun,West,Chandler,Cookies,Oatmeal Raisin,44.0,2.0,287.0
+910,ID00050,18-Nov,West,Fullerton,Bread and bakery products,Carrot,91.0,1.0,89.0
+911,ID07515,21-Dec,West,Reno,Crackers,Whole Wheat,45.0,2.0,45.0
+912,ID07570,2-Mar,Northeast,Springfield,Cookies,Oatmeal Raisin,230.0,3.0,629.0
+913,ID00473,5-Aug,West,Rialto,Bars,Bran,300.0,2.0,791.0
+914,ID07402,1-May,South,Raleigh,Cookies,Arrowroot,230.0,1.0,277.0
+915,ID00424,3-Nov,West,West Valley City,Cookies,Oatmeal Raisin,157.0,1.0,487.0
+916,ID00230,24-Feb,South,Coral Springs,Cookies,Arrowroot,206.0,3.0,700.0
+917,ID00273,17-Jan,Midwest,Olathe,Bars,Banana,239.0,3.0,707.0
+918,ID00375,24-Jul,West,Lakewood,Snacks,Pretzels,164.0,2.0,483.0
+919,ID07497,24-Feb,West,Palmdale,Cookies,Arrowroot,226.0,1.0,493.0
+920,ID00230,9-Feb,South,Sandy Springs,Bars,Banana,109.0,2.0,245.0
+921,ID07493,2-Jan,South,Killeen,Bars,Carrot,102.0,2.0,66.0
+922,ID00091,13-Apr,West,Salem,Bars,Banana,231.0,3.0,646.0
+923,ID07523,6-Dec,South,Laredo,Snacks,Potato Chips,292.0,1.0,720.0
+924,ID00516,7-Sep,Northeast,Woodbridge,Beverages,Carrot,281.0,2.0,796.0
+925,ID07492,21-Nov,West,Bakersfield,Cookies,Arrowroot,191.0,2.0,265.0
+926,ID00429,15-Jun,West,Carlsbad,Beverages,Carrot,94.0,2.0,458.0
+927,ID00271,4-Jan,South,Miami Gardens,Bars,Bran,87.0,1.0,308.0
+928,ID00048,9-Nov,Midwest,Sterling Heights,Bars,Bran,292.0,1.0,694.0
+929,ID07572,10-May,South,Irving,Cookies,Arrowroot,117.0,3.0,173.0
+930,ID07362,7-Apr,West,Portland,Bars,Carrot,182.0,2.0,670.0
+931,ID00206,10-May,Midwest,Sterling Heights,Cookies,Oatmeal Raisin,104.0,2.0,360.0
+932,ID07475,7-Oct,South,Richmond,Cookies,Oatmeal Raisin,35.0,3.0,268.0
+933,ID00469,1-May,Northeast,Brockton,Bread and bakery products,Carrot,283.0,1.0,696.0
+934,ID00339,29-Mar,West,Arvada,Snacks,Pretzels,187.0,1.0,489.0
+935,ID00216,9-Jul,South,Macon,Prepared and preserved foods,Carrot,193.0,2.0,206.0
+936,ID00089,3-Nov,West,West Valley City,Cookies,Chocolate Chip,179.0,1.0,438.0
+937,ID00329,4-Jan,South,Murfreesboro,Prepared and preserved foods,Carrot,142.0,2.0,256.0
+938,ID00127,15-Nov,West,Lancaster,Bars,Carrot,40.0,3.0,103.0
+939,ID07369,1-Feb,West,Tucson,Bars,Carrot,290.0,3.0,751.0
+940,ID00221,7-Oct,West,Carlsbad,Bars,Carrot,121.0,2.0,504.0
+941,ID00269,17-Aug,South,Midland,Snacks,Potato Chips,237.0,1.0,562.0
+942,ID00336,19-Oct,South,Beaumont,Snacks,Potato Chips,158.0,2.0,144.0
+943,ID00025,7-Oct,West,Modesto,Cookies,Chocolate Chip,184.0,2.0,196.0
+944,ID00015,16-May,West,Visalia,Cookies,Arrowroot,113.0,2.0,197.0
+945,ID07379,7-Oct,West,Albuquerque,Bars,Carrot,124.0,3.0,366.0
+946,ID00110,10-Jan,South,Lewisville,Bars,Bran,149.0,2.0,205.0
+947,ID00020,12-Nov,South,Corpus Christi,Bars,Bran,146.0,2.0,345.0
+948,ID00446,9-Jul,South,Columbia,Beverages,Carrot,178.0,2.0,752.0
+949,ID00311,7-Feb,South,North Charleston,Cookies,Oatmeal Raisin,82.0,2.0,492.0
+950,ID00054,13-Apr,West,Salt Lake City,Snacks,Pretzels,98.0,2.0,125.0
+951,ID00137,30-Jul,West,Santa Rosa,Snacks,Pretzels,264.0,3.0,747.0
+952,ID07473,22-Apr,South,Norfolk,Cookies,Arrowroot,133.0,2.0,491.0
+953,ID00407,1-May,West,Inglewood,Snacks,Pretzels,254.0,1.0,471.0
+954,ID00399,11-Jan,West,Salem,Bars,Bran,165.0,2.0,420.0
+955,ID00419,28-Jan,South,Pompano Beach,Bread and bakery products,Carrot,140.0,2.0,249.0
+956,ID00367,21-Dec,West,Westminster,Bars,Banana,77.0,2.0,156.0
+957,ID00021,28-Jan,South,Clarksville,Snacks,Pretzels,43.0,1.0,81.0
+958,ID00042,12-Dec,South,Fayetteville,Cookies,Oatmeal Raisin,176.0,2.0,282.0
+959,ID00019,24-Feb,West,Fullerton,Cookies,Arrowroot,238.0,1.0,609.0
+960,ID00272,28-Apr,West,Thousand Oaks,Bread and bakery products,Carrot,177.0,1.0,164.0
+961,ID07359,23-Jan,South,San Antonio,Bars,Carrot,182.0,2.0,233.0
+962,ID00484,22-Jan,West,Rio Rancho,Prepared and preserved foods,Carrot,183.0,1.0,546.0
+963,ID00322,20-Mar,South,Richardson,Bread and bakery products,Carrot,105.0,2.0,228.0
+964,ID00105,1-May,West,Renton,Cookies,Chocolate Chip,46.0,3.0,168.0
+965,ID00082,23-Jan,South,McAllen,Cookies,Chocolate Chip,297.0,2.0,731.0
+966,ID07444,13-May,West,Stockton,Crackers,Whole Wheat,50.0,3.0,374.0
+967,ID00075,18-Dec,South,Pasadena,Cookies,Arrowroot,240.0,2.0,699.0
+968,ID00024,16-Feb,West,Honolulu,Cookies,Chocolate Chip,178.0,1.0,299.0
+969,ID00228,30-Dec,Northeast,Providence,Snacks,Potato Chips,55.0,1.0,161.0
+970,ID00407,7-Sep,South,Tyler,Bread and bakery products,Carrot,52.0,1.0,107.0
+971,ID00095,6-Jun,West,Arvada,Bars,Bran,162.0,2.0,674.0
+972,ID07404,31-May,West,Mesa,Cookies,Chocolate Chip,20.0,2.0,47.0
+973,ID00433,20-Mar,South,Edinburg,Bars,Banana,237.0,1.0,487.0
+974,ID00011,28-Apr,South,Grand Prairie,Snacks,Potato Chips,80.0,1.0,90.0
+975,ID00448,7-Oct,West,Sparks,Beverages,Carrot,274.0,1.0,781.0
+976,ID00238,23-Jan,South,Mesquite,Bars,Banana,142.0,1.0,74.0
+977,ID00452,15-Jun,South,Tyler,Prepared and preserved foods,Carrot,50.0,3.0,264.0
+978,ID00093,21-Nov,South,Raleigh,Bread and bakery products,Carrot,125.0,3.0,324.0
+979,ID07545,20-Jan,West,Portland,Cookies,Chocolate Chip,37.0,3.0,202.0
+980,ID07586,30-Nov,Midwest,Saint Paul,Bars,Bran,64.0,3.0,300.0
+981,ID07569,14-Jan,Midwest,Madison,Cookies,Chocolate Chip,75.0,3.0,522.0
+982,ID07549,11-Jan,Midwest,Dayton,Bars,Carrot,178.0,3.0,467.0
+983,ID07512,16-Oct,South,Winston–Salem,Snacks,Potato Chips,117.0,3.0,370.0
+984,ID00320,19-Jan,Midwest,Fargo,Prepared and preserved foods,Carrot,202.0,1.0,201.0
+985,ID07559,9-Jun,South,Laredo,Cookies,Arrowroot,232.0,2.0,663.0
+986,ID07533,23-Mar,South,Greensboro,Snacks,Pretzels,144.0,3.0,724.0
+987,ID00325,1-Jan,West,Santa Maria,Prepared and preserved foods,Carrot,294.0,2.0,777.0
+988,ID00283,10-Feb,South,Little Rock,Cookies,Oatmeal Raisin,204.0,3.0,662.0
+989,ID00333,29-Aug,Midwest,Springfield,Snacks,Potato Chips,204.0,3.0,461.0
+990,ID00056,6-Jul,Midwest,Des Moines,Cookies,Arrowroot,26.0,2.0,113.0
+991,ID07366,19-May,South,Charlotte,Crackers,Whole Wheat,52.0,1.0,74.0
+992,ID00342,27-Dec,West,Lakewood,Bars,Bran,120.0,1.0,415.0
+993,ID07399,12-Jun,Midwest,St. Louis,Crackers,Whole Wheat,282.0,1.0,450.0
+994,ID00529,25-Jan,West,Longmont,Beverages,Carrot,218.0,2.0,704.0
+995,ID00522,1-Jan,West,Daly City,Beverages,Carrot,280.0,1.0,691.0
+996,ID00393,2-Aug,South,Edinburg,Cookies,Arrowroot,233.0,2.0,698.0
+997,ID07369,13-Feb,South,Washington,Bars,Carrot,196.0,2.0,297.0
+998,ID00473,21-Jun,West,Buckeye,Bars,Banana,164.0,2.0,244.0
+999,ID00060,24-Dec,South,McAllen,Cookies,Chocolate Chip,96.0,2.0,292.0

@@ -1,0 +1,6 @@
+digraph Metadata {
+	node [fillcolor=lightgoldenrod1 shape=Mrecord style=filled]
+	product_table [label="{product_table|ID : id\lDate : categorical\lRegion : categorical\lCity : categorical\lCategory : categorical\lProduct : categorical\lQty : numerical\lUnitPrice : numerical\lTotalPrice : numerical\l|Primary key: ID\l\l}"]
+	region [label="{region|ID : id\lState  : categorical\lCity : categorical\lRegion : categorical\l|Primary key: None\lForeign key (product_table): ID\l}"]
+	product_table -> region [label="  ID → ID" arrowhead=oinv]
+}

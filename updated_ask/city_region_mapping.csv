@@ -1,0 +1,332 @@
+﻿State ,City,Region
+New York,New York,Northeast
+California,Los Angeles,West
+Illinois,Chicago,Midwest
+Texas,Houston,South
+Arizona,Phoenix,West
+Pennsylvania,Philadelphia,Northeast
+Texas,San Antonio,South
+California,San Diego,West
+Texas,Dallas,South
+California,San Jose,West
+Texas,Austin,South
+Florida,Jacksonville,South
+Texas,Fort Worth,South
+Ohio,Columbus,Midwest
+Indiana,Indianapolis,Midwest
+North Carolina,Charlotte,South
+California,San Francisco,West
+Washington,Seattle,West
+Colorado,Denver,West
+Oklahoma,Oklahoma City,South
+Tennessee,Nashville,South
+Texas,El Paso,South
+District of Columbia,Washington,South
+Massachusetts,Boston,Northeast
+Nevada,Las Vegas,West
+Oregon,Portland,West
+Michigan,Detroit,Midwest
+Kentucky,Louisville,South
+Tennessee,Memphis,South
+Maryland,Baltimore,South
+Wisconsin,Milwaukee,Midwest
+New Mexico,Albuquerque,West
+California,Fresno,West
+Arizona,Tucson,West
+California,Sacramento,West
+Arizona,Mesa,West
+Missouri,Kansas City,Midwest
+Georgia,Atlanta,South
+Nebraska,Omaha,Midwest
+Colorado,Colorado Springs,West
+North Carolina,Raleigh,South
+Virginia,Virginia Beach,South
+California,Long Beach,West
+Florida,Miami,South
+California,Oakland,West
+Minnesota,Minneapolis,Midwest
+Oklahoma,Tulsa,South
+California,Bakersfield,West
+Kansas,Wichita,Midwest
+Texas,Arlington,South
+Colorado,Aurora,West
+Florida,Tampa,South
+Louisiana,New Orleans,South
+Ohio,Cleveland,Midwest
+California,Anaheim,West
+Hawaii,Honolulu,West
+Nevada,Henderson,West
+California,Stockton,West
+Kentucky,Lexington,South
+Texas,Corpus Christi,South
+California,Riverside,West
+California,Santa Ana,West
+Florida,Orlando,South
+California,Irvine,West
+Ohio,Cincinnati,Midwest
+New Jersey,Newark,Northeast
+Minnesota,Saint Paul,Midwest
+Pennsylvania,Pittsburgh,Northeast
+North Carolina,Greensboro,South
+Missouri,St. Louis,Midwest
+Nebraska,Lincoln,Midwest
+Texas,Plano,South
+Alaska,Anchorage,West
+North Carolina,Durham,South
+New Jersey,Jersey City,Northeast
+Arizona,Chandler,West
+California,Chula Vista,West
+New York,Buffalo,Northeast
+Nevada,North Las Vegas,West
+Arizona,Gilbert,West
+Wisconsin,Madison,Midwest
+Nevada,Reno,West
+Ohio,Toledo,Midwest
+Indiana,Fort Wayne,Midwest
+Texas,Lubbock,South
+Florida,St. Petersburg,South
+Texas,Laredo,South
+Texas,Irving,South
+Virginia,Chesapeake,South
+North Carolina,Winston–Salem,South
+Arizona,Glendale,West
+Arizona,Scottsdale,West
+Texas,Garland,South
+Idaho,Boise,West
+Virginia,Norfolk,South
+Washington,Spokane,West
+California,Fremont,West
+Virginia,Richmond,South
+California,Santa Clarita,West
+California,San Bernardino,West
+Louisiana,Baton Rouge,South
+Florida,Hialeah,South
+Washington,Tacoma,West
+California,Modesto,West
+Florida,Port St. Lucie,South
+Alabama,Huntsville,South
+Iowa,Des Moines,Midwest
+California,Moreno Valley,West
+California,Fontana,West
+Texas,Frisco,South
+New York,Rochester,Northeast
+New York,Yonkers,Northeast
+North Carolina,Fayetteville,South
+Massachusetts,Worcester,Northeast
+Georgia,Columbus,South
+Florida,Cape Coral,South
+Texas,McKinney,South
+Arkansas,Little Rock,South
+California,Oxnard,West
+Texas,Amarillo,South
+Georgia,Augusta,South
+Utah,Salt Lake City,West
+Alabama,Montgomery,South
+Alabama,Birmingham,South
+Michigan,Grand Rapids,Midwest
+Texas,Grand Prairie,South
+Kansas,Overland Park,Midwest
+Florida,Tallahassee,South
+California,Huntington Beach,West
+South Dakota,Sioux Falls,Midwest
+Arizona,Peoria,West
+Tennessee,Knoxville,South
+California,Glendale,West
+Washington,Vancouver,West
+Rhode Island,Providence,Northeast
+Ohio,Akron,Midwest
+Texas,Brownsville,South
+Alabama,Mobile,South
+Virginia,Newport News,South
+Arizona,Tempe,West
+Louisiana,Shreveport,South
+Tennessee,Chattanooga,South
+Florida,Fort Lauderdale,South
+Illinois,Aurora,Midwest
+California,Elk Grove,West
+California,Ontario,West
+Oregon,Salem,West
+North Carolina,Cary,South
+California,Santa Rosa,West
+California,Rancho Cucamonga,West
+Oregon,Eugene,West
+California,Oceanside,West
+Tennessee,Clarksville,South
+California,Garden Grove,West
+California,Lancaster,West
+Missouri,Springfield,Midwest
+Florida,Pembroke Pines,South
+Colorado,Fort Collins,West
+California,Palmdale,West
+California,Salinas,West
+California,Hayward,West
+California,Corona,West
+New Jersey,Paterson,Northeast
+Tennessee,Murfreesboro,South
+Georgia,Macon,South
+Colorado,Lakewood,West
+Texas,Killeen,South
+Massachusetts,Springfield,Northeast
+Virginia,Alexandria,South
+Kansas,Kansas City,Midwest
+California,Sunnyvale,West
+Florida,Hollywood,South
+California,Roseville,West
+South Carolina,Charleston,South
+California,Escondido,West
+Illinois,Joliet,Midwest
+Mississippi,Jackson,South
+Washington,Bellevue,West
+Arizona,Surprise,West
+Illinois,Naperville,Midwest
+Texas,Pasadena,South
+California,Pomona,West
+Connecticut,Bridgeport,Northeast
+Texas,Denton,South
+Illinois,Rockford,Midwest
+Texas,Mesquite,South
+Georgia,Savannah,South
+New York,Syracuse,Northeast
+Texas,McAllen,South
+California,Torrance,West
+Kansas,Olathe,Midwest
+California,Visalia,West
+Colorado,Thornton,West
+California,Fullerton,West
+Florida,Gainesville,South
+Texas,Waco,South
+Utah,West Valley City,West
+Michigan,Warren,Midwest
+New Jersey,Lakewood,Northeast
+Virginia,Hampton,South
+Ohio,Dayton,Midwest
+South Carolina,Columbia,South
+California,Orange,West
+Iowa,Cedar Rapids,Midwest
+Connecticut,Stamford,Northeast
+California,Victorville,West
+California,Pasadena,West
+New Jersey,Elizabeth,Northeast
+Connecticut,New Haven,Northeast
+Florida,Miramar,South
+Washington,Kent,West
+Michigan,Sterling Heights,Midwest
+Texas,Carrollton,South
+Florida,Coral Springs,South
+Texas,Midland,South
+Oklahoma,Norman,South
+Georgia,Athens,South
+California,Santa Clara,West
+Missouri,Columbia,Midwest
+North Dakota,Fargo,Midwest
+Texas,Pearland,South
+California,Simi Valley,West
+Idaho,Meridian,West
+Kansas,Topeka,Midwest
+Pennsylvania,Allentown,Northeast
+California,Thousand Oaks,West
+Texas,Abilene,South
+California,Vallejo,West
+California,Concord,West
+Texas,Round Rock,South
+Colorado,Arvada,West
+California,Clovis,West
+Florida,Palm Bay,South
+Missouri,Independence,Midwest
+Louisiana,Lafayette,South
+Michigan,Ann Arbor,Midwest
+Minnesota,Rochester,Midwest
+Connecticut,Hartford,Northeast
+Texas,College Station,South
+California,Fairfield,West
+North Carolina,Wilmington,South
+South Carolina,North Charleston,South
+Montana,Billings,West
+Florida,West Palm Beach,South
+California,Berkeley,West
+Massachusetts,Cambridge,Northeast
+Florida,Clearwater,South
+Utah,West Jordan,West
+Indiana,Evansville,Midwest
+Texas,Richardson,South
+Oklahoma,Broken Arrow,South
+California,Richmond,West
+Texas,League City,South
+New Hampshire,Manchester,Northeast
+Florida,Lakeland,South
+California,Carlsbad,West
+California,Antioch,West
+Colorado,Westminster,West
+North Carolina,High Point,South
+Utah,Provo,West
+Massachusetts,Lowell,Northeast
+Illinois,Elgin,Midwest
+Connecticut,Waterbury,Northeast
+Illinois,Springfield,Midwest
+Oregon,Gresham,West
+California,Murrieta,West
+Texas,Lewisville,South
+New Mexico,Las Cruces,West
+Michigan,Lansing,Midwest
+Texas,Beaumont,South
+Texas,Odessa,South
+Colorado,Pueblo,West
+Illinois,Peoria,Midwest
+California,Downey,West
+Florida,Pompano Beach,South
+Florida,Miami Gardens,South
+California,Temecula,West
+Washington,Everett,West
+California,Costa Mesa,West
+California,Ventura,West
+Nevada,Sparks,West
+California,Santa Maria,West
+Texas,Sugar Land,South
+Colorado,Greeley,West
+Georgia,South Fulton,South
+Michigan,Dearborn,Midwest
+North Carolina,Concord,South
+New Jersey,Edison,Northeast
+Texas,Tyler,South
+Georgia,Sandy Springs,South
+California,West Covina,West
+Wisconsin,Green Bay,Midwest
+Colorado,Centennial,West
+California,Jurupa Valley,West
+California,El Monte,West
+Texas,Allen,South
+Oregon,Hillsboro,West
+California,Menifee,West
+Idaho,Nampa,West
+Washington,Spokane Valley,West
+New Mexico,Rio Rancho,West
+Massachusetts,Brockton,Northeast
+California,El Cajon,West
+California,Burbank,West
+California,Inglewood,West
+Washington,Renton,West
+Florida,Davie,South
+California,Rialto,West
+Colorado,Boulder,West
+Indiana,South Bend,Midwest
+New Jersey,Woodbridge,Northeast
+California,Vacaville,West
+Texas,Wichita Falls,South
+Missouri,Lee's Summit,Midwest
+Texas,Edinburg,South
+California,Chico,West
+California,San Mateo,West
+Oregon,Bend,West
+Arizona,Goodyear,West
+Arizona,Buckeye,West
+California,Daly City,West
+Indiana,Fishers,Midwest
+Massachusetts,Quincy,Northeast
+Iowa,Davenport,Midwest
+California,Hesperia,West
+Massachusetts,New Bedford,Northeast
+Massachusetts,Lynn,Northeast
+Indiana,Carmel,Midwest
+Colorado,Longmont,West
+Alabama,Tuscaloosa,South
+California,Norwalk,West
