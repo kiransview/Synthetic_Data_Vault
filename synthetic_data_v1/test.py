@@ -59,7 +59,9 @@ TVAE Model: TVAE Synthesizer uses a variational autoencoder (VAE)-based, neural 
                 "enforce_min_max_values", ["True", "False"]
             )
         with col2:
-            model_parameters["method"] = st.selectbox("Method", ["spearman", "pearson", "kendall"])
+            model_parameters["method"] = st.selectbox(
+                "Method", ["spearman", "pearson", "kendall"]
+            )
         with col3:
             model_parameters["default distribution"] = st.selectbox(
                 "default distribution",
@@ -68,9 +70,13 @@ TVAE Model: TVAE Synthesizer uses a variational autoencoder (VAE)-based, neural 
     elif selected_model == "CTGANSynthesizer" or selected_model == "TVAESynthesizer":
         col1, col2 = st.columns(2)
         with col1:
-            model_parameters["epochs"] = st.number_input("Epochs", min_value=1, value=100)
+            model_parameters["epochs"] = st.number_input(
+                "Epochs", min_value=1, value=100
+            )
         with col2:
-            model_parameters["batch_size"] = st.number_input("Batch Size", min_value=1, value=128)
+            model_parameters["batch_size"] = st.number_input(
+                "Batch Size", min_value=1, value=128
+            )
     else:
         st.error("Invalid model selection.")
     num_rows = st.number_input(
