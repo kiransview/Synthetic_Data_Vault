@@ -1,9 +1,9 @@
 import streamlit as st
 import pandas as pd
-from sdv_pg.metadata import SingleTableMetadata
-from sdv_pg.single_table import GaussianCopulaSynthesizer
-from sdv_pg.single_table import CTGANSynthesizer, TVAESynthesizer
-from sdv_pg.evaluation.single_table import evaluate_quality
+from sdv.metadata import SingleTableMetadata
+from sdv.single_table import GaussianCopulaSynthesizer
+from sdv.single_table import CTGANSynthesizer, TVAESynthesizer
+from sdv.evaluation.single_table import evaluate_quality
 
 
 def sdv_page():
@@ -117,19 +117,3 @@ TVAE Model: TVAE Synthesizer uses a variational autoencoder (VAE)-based, neural 
     if quality_report is not None:
         st.write("Evaluation Score:", quality_report.get_score())
         st.write("Properties:", quality_report.get_properties())
-
-
-def main():
-    pages = {
-        "SDV": sdv_page,
-    }
-
-    st.sidebar.title("Navigation")
-    selection = st.sidebar.radio("Go to", list(pages.keys()))
-
-    page = pages[selection]
-    page()
-
-
-if __name__ == "__main__":
-    main()
